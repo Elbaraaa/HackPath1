@@ -134,10 +134,14 @@ export function bulkInsertCourses(courses: Course[]): number {
 export function savePlan(p: {
   major: string; second_major?: string; standing: string; grad_term: string;
   max_units: number; include_summer: boolean; transcript_text: string;
-  result_json: string; feasibility: string;
+  result_json: any; feasibility: string;
 }): number {
   return getDb().prepare(`
     INSERT INTO plans (major,second_major,standing,grad_term,max_units,include_summer,transcript_text,result_json,feasibility)
     VALUES (@major,@second_major,@standing,@grad_term,@max_units,@include_summer,@transcript_text,@result_json,@feasibility)
-  `).run({ ...p, include_summer: p.include_summer ? 1 : 0 }).lastInsertRowid as number;
+  `).run({
+    ...p,
+    include_summer: p.include_summer ? 1 : 0,
+    result_json: typeof p.result_json === "string" ? p.result_json : JSON.stringify(p.result_json)
+  }).lastInsertRowid as number;
 }

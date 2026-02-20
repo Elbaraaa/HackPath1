@@ -43,7 +43,7 @@ export async function generateDegreePlan(opts: {
   includeSummer: boolean;
   courses: Course[];
 }): Promise<PlanResult> {
-  const model = client().getGenerativeModel({ model: 'gemini-1.5-pro' });
+  const model = client().getGenerativeModel({ model: 'gemini-2.5-flash' });
 
   const relevantCourses = opts.courses.filter(
     c => c.major === opts.major || c.major === opts.secondMajor
@@ -117,7 +117,7 @@ ${catalog || 'No courses found in the database for this major. Use general knowl
 // CATALOG PDF PARSING
 // ─────────────────────────────────────────────────────────────────────────────
 export async function parseCatalogText(rawText: string, defaultMajor?: string): Promise<Course[]> {
-  const model = client().getGenerativeModel({ model: 'gemini-1.5-pro' });
+  const model = client().getGenerativeModel({ model: 'gemini-2.5-flash' });
 
   const prompt = `You are parsing a university course catalog. Extract every course you find.
 
@@ -156,7 +156,7 @@ export async function chatAdvisorTurn(
   courses: Course[]
 ): Promise<string> {
   const model = client().getGenerativeModel({
-    model: 'gemini-1.5-flash',
+    model: 'gemini-2.5-flash',
     systemInstruction: `You are a warm, knowledgeable university course advisor.
 Goal: understand the student's interests through conversation, then recommend courses.
 

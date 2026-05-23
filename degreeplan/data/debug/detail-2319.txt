@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE429 - Applied Cyberinfrastructure Concepts
+BE429
+Download as PDF
+BE429 - Applied Cyberinfrastructure Concepts
+Information Science  Undergraduate  UA - UA General 
+General
+Course ID
+036496
+Course Description
+Students will learn from experts from projects that have developed widely adopted foundational Cyberinfrastrcutrue resources, followed by hands-on laboratory exercises focused around those resources. Students will use these resources and gain practical experience from laboratory exercises for a final project using a data set and meeting requirements provided by domain scientists. Students will be provided access to computer resources at: UA campus clusters, iPlant Collaborative and at NSF XSEDE. Students will also learn to write a proposal for obtaining future allocation to large scale national resources through XSEDE.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+Programming experience at the level of CSC 120 is recommended but not required.
+Cross Listed Courses
+May be convened with
+BE529
+
+Component
+Lecture
+Optional Component
+No

@@ -1,10 +1,23 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getAllCourses, upsertCourse, updateCourse, deleteCourse } from '@/lib/db';
+import { getAllCourses, getCoursesPage, upsertCourse, updateCourse, deleteCourse } from '@/lib/db';
 
-export async function GET() {
+export async function GET(req: NextRequest) {
   try {
-    const courses = await getAllCourses();
-    return NextResponse.json({ courses });
+    const { searchParams } = new URL(req.url);
+    if (searchParams.get('all') === '1') {
+      const courses = await getAllCourses();
+      return NextResponse.json({ courses, total: courses.length, limit: courses.length, offset: 0 });
+    }
+
+    const result = await getCoursesPage({
+      limit: Number(searchParams.get('limit') || 200),
+      offset: Number(searchParams.get('offset') || 0),
+      q: searchParams.get('q') || undefined,
+      major: searchParams.get('major') || undefined,
+      category: searchParams.get('category') || undefined
+    });
+
+    return NextResponse.json(result);
   } catch (e: any) {
     console.error('[GET /api/courses]', e);
     return NextResponse.json({ error: e.message }, { status: 500 });

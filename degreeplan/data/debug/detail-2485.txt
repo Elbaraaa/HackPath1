@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS503 - Introduction to Statistical Analysis Using STATA
+BIOS503
+Download as PDF
+BIOS503 - Introduction to Statistical Analysis Using STATA
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+036207
+Course Description
+This course provides an introduction to statistical analysis using the STATA software package. It will introduce methods for entering, modifying and managing data, and provide examples of commonly used statistical analyses.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+BIOS/EPID/CPH 576A.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

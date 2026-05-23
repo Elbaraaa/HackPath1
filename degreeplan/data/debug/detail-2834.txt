@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CE465 - Transportation Data Management and Analysis
+CE465
+Download as PDF
+CE465 - Transportation Data Management and Analysis
+Civil & Arch Engr & Mechanics  Undergraduate  UA - UA General 
+General
+Course ID
+038512
+Course Description
+This course introduces important concepts of database design and application. Popular database and analytical tools are introduced and demonstrated using traffic sensor data, roadway geometric data, and traffic accident data. The objective is to introduce modern concepts, algorithms, and tools for transportation data management and analysis. With the instructions, assignments, and projects in this course, students are expected to learn database design theories; analytical methods for capacity, safety, and time series analyses; and skills on popular software tools for transportation data management and analysis.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Adv. Standing: Engineering. CE 363.
+Course Requisites
+May be convened with
+CE565
+
+Component
+Lecture
+Optional Component
+No

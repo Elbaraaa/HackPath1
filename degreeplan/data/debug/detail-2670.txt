@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN530 - Foundations of Python for Analytics
+BNAN530
+Download as PDF
+BNAN530 - Foundations of Python for Analytics
+Business Analytics, Sch of  Graduate  UA - UA General 
+General
+Course ID
+043173
+Course Description
+Students will enhance their foundational skills in Python and tailor their knowledge toward performing data-intensive tasks to make raw data organized, readable, and clean. Students will learn how to use Python libraries to find interesting patterns in data using data wrangling and visualization techniques. They will gain experience in Python and apply these skills in generating reproducible reports in business contexts. This course also teaches students the fundamentals of machine learning methods and prepares them for more advanced data science techniques.
+Min Units
+2
+Max Units
+2
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+Major: BNANMS
+
+Component
+Lecture
+Optional Component
+No

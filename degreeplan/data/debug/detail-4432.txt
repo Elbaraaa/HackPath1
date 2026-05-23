@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE527 - Holography and Diffractive Optics
+ECE527
+Download as PDF
+ECE527 - Holography and Diffractive Optics
+Optical Sciences, Col  Graduate  UA - UA General 
+General
+Course ID
+025079
+Course Description
+This course describes the nature of holographic and lithographically formed diffraction gratings and the tools necessary for their design and analysis. Course topics include a description of the interference and Fourier relations that determine the amplitude of diffracted fields, analysis of volume gratings, properties of holographic recording materials, computer generated holograms, binary gratings, analysis of applications of holography including data storage, imaging systems, photovoltaic energy systems, polarization control elements, and associative memories. We will also have a number of lab demonstrations fabricating holograms in a new type of photopolymer.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+OPTI 502, OPTI 505R or ECE 459 or ECE 559.
+Cross Listed Courses
+OPTI527
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECOL419 - Introduction to Modeling in Biology
+ECOL419
+Download as PDF
+ECOL419 - Introduction to Modeling in Biology
+Ecology & Evolutionary Biology  Undergraduate  UA - UA General 
+General
+Course ID
+038444
+Course Description
+This course will give an introduction to different modeling methods used in biology research, including differential equations, individual-based simulations, stochastic models, and others. Students will learn what questions can be answered and what the limitations of each of these methods are, and read scientific papers applying them. The primary goal of this class is to enable students to read theory papers (or papers containing some modeling) effectively and critically, including when the paper is challenging and includes unfamiliar mathematical techniques. Reading a paper effectively includes in particular understanding what the paper contributed to science, and whether this was convincingly achieved. Students will also learn basics of programming in Mathematica.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Requisites
+MATH 129 or MATH 119 and ECOL 182R.
+May be convened with
+ECOL519
+
+Component
+Lecture
+Optional Component
+No

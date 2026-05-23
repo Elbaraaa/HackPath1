@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE369A - Fundamentals of Computer Organization
+ECE369A
+Download as PDF
+ECE369A - Fundamentals of Computer Organization
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+036602
+Course Description
+Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course qualitatively and quantitatively examines computer design trade-offs, teaches the fundamentals of computer architecture and organization, including CPU, memory, registers, arithmetic unit, control unit, and input/output components. Topics include reduced instruction set computer architectures (RISC), using the MIPS central processor as an example, interface between assembly and high level programming constructs and hardware, instruction and memory cache systems, performance evaluation, benchmarks, and use of the SPIM/WinDLX/Verilog Simulators for the MIPS architecture. ECE 369A serves students two ways. For those who will continue in computer architecture, it lays foundation of state-of-the-art techniques implemented in current and future high-performance computing platforms. For those students not continuing in computer architecture, it gives an overview of the kind of techniques used in today's microprocessors.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE, CSE, or SFE. ECE 101 and ECE 274A.
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

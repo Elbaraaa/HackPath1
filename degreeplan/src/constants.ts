@@ -1,4 +1,4 @@
-export const SAMPLE_TX = `UNIVERSITY OF ARIZONA — UNOFFICIAL TRANSCRIPT
+export const SAMPLE_TX = `UNIVERSITY OF ARIZONA — ADVISEMENT REPORT
 Student: Jane Doe  |  ID: 123456789
 Major: Computer Science (BS)  |  Standing: Junior  |  GPA: 3.72
 
@@ -24,7 +24,7 @@ Spring 2025
 TOTAL COMPLETED UNITS: 34`;
 
 export const LOAD_MSGS = [
-  'Parsing transcript…',
+  'Reading advisement report...',
   'Mapping requirements…',
   'Checking prereq chains…',
   'Analyzing course load…',

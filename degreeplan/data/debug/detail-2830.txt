@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CE462 - Traffic Engineering and Operations
+CE462
+Download as PDF
+CE462 - Traffic Engineering and Operations
+Civil & Arch Engr & Mechanics  Undergraduate  UA - UA General 
+General
+Course ID
+039484
+Course Description
+Two-thirds of urban vehicle-miles of travel in the U.S. are on signal-controlled roadways. Traffic control systems are designed and installed to achieve two primary goals -- safety and efficiency -- by providing orderly movement in all directions. However, present traffic control systems are by no means a perfect solution for delay or crash problems on urban roads. A poorly designed traffic control system can have a negative impact on traffic operations by lengthening vehicle delay, increasing the rate of vehicle crashes, and introducing disruptions to traffic progression. On a national average, poor signal timing causes up to fifteen percent excess vehicle delay, sixteen percent excess vehicle stops, seven percent excess travel time, and nine percent excess fuel consumption. A previous study reported that there are roughly 300,000 traffic signals in the U.S. and about 75 percent of them could be improved easily and inexpensively. This indicates that huge benefits are potentially obtainable through traffic control system optimizations. In recent years, traffic detectors have been intensively deployed in major highway systems across the country. These sensors generate tremendous traffic data that are extremely valuable for traffic management, forecast, and control. How to manage the data efficiently and produce the most useful information out of them have been crucial challenges faced by traffic professionals. Therefore, this course introduces important concepts and principles of traffic system design, geometric characteristics, and operation of streets and highways, including planning aspects, traffic design and control, and highway safety. Simulation modeling and application of these concepts and principles to actual situations will be emphasized to evaluate traffic system performance.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CE 363 and Adv Stdg: Engineering.
+Course Requisites
+Departments allowed to enroll will be CE, SE, IE, EM, CEEM, and Planning majors or permission from the instructor.
+May be convened with
+CE562
+
+Component
+Lecture
+Optional Component
+No

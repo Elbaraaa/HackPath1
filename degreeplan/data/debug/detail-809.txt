@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME556 - Nonlinear and Optimal Control
+AME556
+Download as PDF
+AME556 - Nonlinear and Optimal Control
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+042305
+Course Description
+Advanced notions of stability and control design for dynamical systems. Topics include Lyapunov stability, bifurcation theory, methods of model reduction for nonlinear systems, and the theory and implementation of optimal control methods.
+
+This course is an introduction to two topics in control theory: nonlinear and optimal control. It is designed as the final course of a four-course sequence in advanced control. Therefore, it is assumed that you have had a course in state-space control of linear systems and are familiar with the principles of feedback, block diagrams, and notions such as observability and controllability in the context of linear systems.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Graduate standing, AME 500A/B or equivalent
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

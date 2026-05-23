@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ACBS513 - Statistical Genetics for Quantitative Measures
+ACBS513
+Download as PDF
+ACBS513 - Statistical Genetics for Quantitative Measures
+Animal & Biomedical Sciences  Graduate  UA - UA General 
+General
+Course ID
+006739
+Course Description
+This course provide the student with the statistical tools to describe variation in quantitative traits, particularly the decomposition of variation into genetic, environmental, and gene by environment interaction components. Convariance (resemblance) between relatives and heritability will be discussed, along with the topics of epistasis, oligogenic and polygenic traits, complex segregation analysis, methods of mapping quantitative trait loci (QTL), and estimation procedures. Microarrays have multiple uses, each of which will be discussed and the corresponding statistical analyses described.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - GENE (Genetics)
+Course Requisites
+A basic genetic principles course as ANS 213, GENE 433, GENE 533, or GENE 545. A current course on basic statistical principles as GENE 509C or MATH 509C. A course in linear models as MATH 561 and in statistical inference mathematics.
+Cross Listed Courses
+GENE513
+EPID513
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

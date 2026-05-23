@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC547 - Green Computing
+CSC547
+Download as PDF
+CSC547 - Green Computing
+Computer Science  Graduate  UA - UA General 
+General
+Course ID
+035942
+Course Description
+This course covers fundamental principles of energy management faced by designers of hardware, operating systems, and data centers. We will explore basic energy management option in individual components such as CPUs, network interfaces, hard drives, memory. We will further present the energy management policies at the operating system level that consider performance vs. energy saving tradeoffs. Finally we will consider large scale data centers where energy management is done at multiple layers from individual components in the system to shutting down entries subset of machines. We will also discuss energy generation and delivery and well as cooling issues in large data centers. In addition to the assignments listed for undergraduates, Graduate-level requirements include a detailed review of the three recent conference publications dealing with energy efficiency.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - GC (Global Change)
+Course Requisites
+CSC 452 or equivalent course in operating systems.
+May be convened with
+CSC447
+
+Component
+Lecture
+Optional Component
+No

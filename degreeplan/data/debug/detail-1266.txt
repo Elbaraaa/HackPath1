@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APCV381 - Mobile Device Programming
+APCV381
+Download as PDF
+APCV381 - Mobile Device Programming
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+036648
+Course Description
+The course involves a careful examination of mobile device programming. Emphases are on developing applications as a community that run on a mobile plat- form. Students will be able to develop, emulate, and test applications for mobile devices.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Students may not have completed or be enrolled in CSC 317.
+Course Requisites
+Students must have previously taken CSC 127B or CS C227.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

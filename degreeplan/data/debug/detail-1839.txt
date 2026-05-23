@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ARL555 - Introduction to Atmospheric and Hydrology Remote Sensing
+ARL555
+Download as PDF
+ARL555 - Introduction to Atmospheric and Hydrology Remote Sensing
+Hydrology & Atmospheric Sci  Graduate  UA - UA General 
+General
+Course ID
+039592
+Course Description
+The purpose of this course is to introduce the basic remote sensing techniques and their applications to the atmosphere, hydrology and other fields. This includes understanding the basic concepts of radiation transfer, passive and active remote sensing, satellite and ground-based remote sensing and their retrieval techniques. Finally, inversion techniques in remote sensing will be briefly introduced and the uncertainties/errors of the retrieved cloud and precipitation properties will be estimated.
+
+Graduate students will do some homework, but primarily work on processing and analyzing the aircraft, ground-based and satellite remote sensing data collected from instructors research projects. Graduate students will get hands-on experience by doing these projects using IDL, MATLAB, FORTRAN, or other programs. For some projects, I may provide key codes as a reference.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - ARL (Arid Lands Resource Sciences), GIDP - GC (Global Change), GIDP - REM (Remote Sensing & Spatial An.)
+Course Requisites
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

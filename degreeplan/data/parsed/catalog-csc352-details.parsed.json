@@ -1,0 +1,25 @@
+[
+  {
+    "courseId": "009800",
+    "subjectCode": "CSC",
+    "catalogNumber": "352",
+    "courseCode": "CSC 352",
+    "levelNumber": 300,
+    "offeringUnit": "Computer Science",
+    "title": "Systems Programming and Unix",
+    "description": "Programming in C, including single and multi-dimensional arrays, lists, stacks, queues, trees, and bit manipulation. Unix topics, including debuggers, makefiles, shell programming, and other topics that support systems programming.",
+    "minUnits": 3,
+    "maxUnits": 3,
+    "repeatableForCredit": false,
+    "totalCompletionsAllowed": null,
+    "totalUnitsAllowed": null,
+    "gradingBasis": "GRD - Regular Grades A, B, C, D, E",
+    "components": [
+      "Laboratory; Lecture"
+    ],
+    "courseAttributes": [],
+    "enrollmentRequirementsRaw": "CSC 210 and CSC 252.",
+    "courseRequisitesRaw": null,
+    "searchableText": "CSC 352 Systems Programming and Unix Programming in C, including single and multi-dimensional arrays, lists, stacks, queues, trees, and bit manipulation. Unix topics, including debuggers, makefiles, shell programming, and other topics that support systems programming."
+  }
+]

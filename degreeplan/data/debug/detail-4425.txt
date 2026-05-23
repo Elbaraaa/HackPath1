@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE514A - Photovoltaic Solar Energy Systems
+ECE514A
+Download as PDF
+ECE514A - Photovoltaic Solar Energy Systems
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012248
+Course Description
+This course is intended to provide an introduction to the theory and operation of different types of photovoltaic devices, the characteristics of solar illumination, and the advantages and characteristics of concentrating and light management optics. The physical limits on photovoltaic cell performance and practical device operation will be analyzed. The main device emphasis will focus on different types of silicon photovoltaics including crystalline, amorphous, multi-crystalline, and thin film solar cells. An overview of other types of photovoltaic cells including multi-junction III-V, CdTe, CuInSe2, and organics will also be given. A discussion of radiometric and spectral properties of solar illumination will be presented and the impact of these factors on solar cell design will be explored. Techniques for increasing the performance of solar cells by light trapping, photon recycling, and anti-reflection coatings will be covered. The design and operation of imaging and non-imaging concentrators will also be discussed. Basic experiments related to PV cell measurements and the optical properties of concentrators are also planned for the course. Graduate-level requirements include a research report on a topic selected from the course material.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - GC (Global Change), GIDP - IFEWS (Indige Food Energy & Water Sys)
+Course Requisites
+Cross Listed Courses
+May be convened with
+ECE414A
+
+Component
+Lecture
+Optional Component
+No

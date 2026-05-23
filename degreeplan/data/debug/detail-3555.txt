@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CMM523 - Crash Course in Single-cell Genomics Analysis for Biologists
+CMM523
+Download as PDF
+CMM523 - Crash Course in Single-cell Genomics Analysis for Biologists
+Cellular & Molecular Medicine  Graduate  UA - UA General 
+General
+Course ID
+043255
+Course Description
+This one-credit course aims to equip graduate students with the basic tools necessary to tackle modern single-cell genomic analysis. The goal is to provide foundational concepts that apply to a variety of single-cell genomic application, though the instructors own background in chromatin accessibility will undoubtedly present a bias.
+
+The course will cover these major topics: the basics of data pre-processing; single-cell RNA-seq analysis using Seurat; single-cell ATAC-seq analysis using Signac; advanced methods, including integration, trajectory analysis, etc. The course will require some R programming and some bash scripting. The course may include some Python programming.
+
+Bioinformatics is best learned through experiential education. Therefore, most of the course will be dedicated to hands-on experience. Lectures will be limited to essential overviews, and most of the course will involve in-class assignments for individual or small group learning.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

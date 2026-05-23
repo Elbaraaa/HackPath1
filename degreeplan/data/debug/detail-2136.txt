@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ASTR501 - Introduction to Computing
+ASTR501
+Download as PDF
+ASTR501 - Introduction to Computing
+Astronomy  Graduate  UA - UA General 
+General
+Course ID
+041311
+Course Description
+Introduction to computing for incoming astronomy and astrophysics graduate students. Course will cover basics of programming in Python and C++, including commonly-used libraries for astronomical research, an introduction to computer hardware including coprocessors such as GPUs, and some introductory concepts from computer science.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+PNP - Pass/Fail
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE455 - Introduction to Quantum Mechanics and Quantum Information Processing
+ECE455
+Download as PDF
+ECE455 - Introduction to Quantum Mechanics and Quantum Information Processing
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+042936
+Course Description
+This course is a self-contained introduction to quantum mechanics, quantum information, and quantum computing. The course starts with basics of linear spaces, including basis vectors, Gram-Schmidt procedure, Dirac algebra, Hermitian conjugation, eigenvalues and eigenvectors, and commutator. It continues with the principles of quantum mechanics including photon polarization, state vectors, operators, density operators, measurements, and dynamics of a quantum system, spin-1/2 systems and entanglement. The next chapter is devoted fundamentals of quantum computing, including single qubit gates, multiple qubit gates, controlled operations and universal quantum gates. Further, after introduction of quantum parallelism, important quantum algorithms are studied such as Deutsch's and Deutsch-Jozsa algorithms, Grover search algorithm and quantum Fourier transform. The next chapter will be devoted to physical realization of quantum information processing including nuclear magnetic resonance, ion traps, photonic realization, cavity quantum electrodynamics, and quantum dots. We then study various applications of quantum information processing including quantum teleportation, superdense coding and quantum cryptography. Course concludes with various quantum channel models and basics of quantum error correction. As a dual numbered course, the graduate level version will include more challenging homework problem sets and exam problems, as well as a comprehensive course project.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing in Engineering. MATH 254 and ECE 275 and (ECE 207 or ECE 220) and ECE 310.
+May be convened with
+ECE555
+
+Component
+Lecture
+Optional Component
+No

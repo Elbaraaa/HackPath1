@@ -1,0 +1,79 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE485 - Remote Sensing Data and Methods
+BE485
+Download as PDF
+BE485 - Remote Sensing Data and Methods
+Biosystems Engineering  Undergraduate  UA - UA General 
+General
+Course ID
+039778
+Course Description
+This course provides an in depth overview of practical topics in land remote sensing with big data, data sourcing and provenance, characteristics, generating algorithms, data discovery, advanced analysis, and data limitations. Students will learn how to discover and acquire a variety of global to regional land remote sensing data, learn about the various sensors/platforms collecting these data, learn how to interpret and use these data emphasizing real-world applications and research topics.
+
+The course is aimed primarily at students of biosystems engineering, environmental sciences, and natural resources management, and aims at bridging the gap between the theoretical aspects of remote sensing and current Earth science data records, algorithms, and analytics.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+Senior status only.
+Course Requisites
+GIST 330 and GEOG 418 highly recommended.
+Cross Listed Courses
+May be convened with
+BE585
+
+Component
+Lecture
+Optional Component
+No

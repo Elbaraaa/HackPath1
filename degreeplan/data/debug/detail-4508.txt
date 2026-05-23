@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECOL195C - Research Methods in Biology for STEM majors
+ECOL195C
+Download as PDF
+ECOL195C - Research Methods in Biology for STEM majors
+Ecology & Evolutionary Biology  Undergraduate  UA - UA General 
+General
+Course ID
+041288
+Course Description
+For any STEM major, a university like the UA offers many opportunities to be involved in actual scientific research. But how do you become involved, and how do you make the most of this experience? In this course you will learn about the rules of academia, how to perform rigorous research, how to do statistical analyses in R, and how to graph and present your results to peers and others. You will meet a group of fellow research-active undergraduate students, and we will also discuss possible next steps, such as how to apply for graduate school. This course is intended to be taken alongside your research (we will help you find a research position in the first week if you do not have one yet), so that the data you analyze and present in class will come from your ongoing work.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+Yes
+Total Completions Allowed
+8
+Total Units Allowed
+8
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Requisites
+Must concurrently be involved in research experience, e.g. through FWS, Independent Study, or Directed Research
+May be convened with
+
+Component
+Colloquium
+Optional Component
+No

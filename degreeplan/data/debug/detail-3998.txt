@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV473 - Violent Python
+CYBV473
+Download as PDF
+CYBV473 - Violent Python
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+040379
+Course Description
+CYBV 473 will provide students with advanced practical applications of Python programming to support offensive and defensive cybersecurity operations. A crosscut of Python concepts, tools, and techniques will be presented. Students will use interactive programming activities to master and create advanced Python tools to support common cybersecurity tasks.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CYBR 104 or ISTA130 or consent of instructor.
+
+Component
+Lecture
+Optional Component
+No

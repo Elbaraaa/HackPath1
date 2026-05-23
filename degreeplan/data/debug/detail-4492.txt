@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE638 - Wireless Communications
+ECE638
+Download as PDF
+ECE638 - Wireless Communications
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012366
+Course Description
+This course will cover advanced topics in wireless communications for voice, data, and multimedia. It begins with a brief overview of current wireless systems and standards. It then characterizes the wireless channel, including path loss for different environments, random log-normal shadowing due to signal attenuation, and the flat and frequency-selective properties of multipath fading. Next it examines the fundamental capacity limits of wireless channels and the characteristics of the capacity-achieving transmission strategies. The next focus will be on practical digital modulation techniques and their performance under wireless channel impairments. The next part of the course is devoted to coding for wireless channels, adaptive modulation and adaptive coding. A significant amount of time will be spent on multiple antenna techniques: MIMO channel model, MIMO channel capacity, and space-time coding. The section on multicarrier modulation provides comprehensive treatment of orthogonal frequency-division multiplexing (OFDM). The course concludes with ultra-wideband (UWB) communications, software-defined radio and cognitive radio
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

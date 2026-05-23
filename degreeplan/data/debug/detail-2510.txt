@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS684 - General Linear and Mixed Effects Models
+BIOS684
+Download as PDF
+BIOS684 - General Linear and Mixed Effects Models
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+014335
+Course Description
+This course introduces basic concepts of linear algebra that are essential for understanding more advanced statistical modeling methodology. This knowledge is used to understand the General Linear Model (GLM) which includes linear regression, ANOVA, and other special applications and modern methods for the analysis of repeated measures, correlated outcomes and longitudinal data, including the unbalanced and incomplete data sets characteristic of biomedical research. Topics include an introduction to matrices for statistics, general linear models, analysis of correlated data, random effects models, and generalized linear mixed models.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - STATD (Statistics and Data Science)
+Course Requisites
+BIOS/EPID 576A and BIOS/EPID 576B.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

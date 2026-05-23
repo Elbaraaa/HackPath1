@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME568 - Probabilistic Design
+AME568
+Download as PDF
+AME568 - Probabilistic Design
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+005529
+Course Description
+Theoretical and computational aspects for propagation of uncertainties through a model. Methods for problems with traditional random variables and random fields will be presented. These fundamental aspects will be complemented by the description of engineering applications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Any one of: AME 463, AME 561, AME 563, CE 402, or CE 502.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

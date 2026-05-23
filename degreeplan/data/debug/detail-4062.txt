@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA474 - Introduction to Statistical Machine Learning
+DATA474
+Download as PDF
+DATA474 - Introduction to Statistical Machine Learning
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+042943
+Course Description
+The course teaches students fundamentals of machine learning, covering theoretical principles, statistical machine learning methods and tools, computation algorithms, and their applications to real world problems. Topics include supervised learning (linear and logistic regression, regularization methods such as lasso and ridge, variable decision trees, support vector machines, bagging and boosting, neural networks, and deep learning), unsupervised learning (principle component analysis, clustering, dimension reduction). Important concepts such as bias-variance tradeoff, overfitting, curse of dimensionality, and cross validation are also covered.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+(DATA/MATH 363) and Linear Algebra (MATH 313 or DATA 412).
+
+Component
+Lecture
+Optional Component
+No

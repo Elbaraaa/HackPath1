@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME437 - Aerothermodynamics
+AME437
+Download as PDF
+AME437 - Aerothermodynamics
+Aerospace & Mechanical Engr  Undergraduate  UA - UA General 
+General
+Course ID
+043378
+Course Description
+This course aims at providing fundamental knowledge into the phenomena of high-temperature, nonequilibrium, and rarefied flows. Concepts and techniques for the description of high-temperature and chemically reacting gases from a molecular point of view are presented. This includes basic kinetic theory, which encompasses molecular collisions, the Boltzmann equation, and distribution functions. Introductory quantum mechanics is covered including the Schrödinger equation and quantum energy states for translation, rotation, vibration, and electronic models of atoms and molecules. Statistical mechanics is then used to relate quantum and molecular-level information to macroscopic gas properties using the Boltzmann relation and partition functions. Finally, these ideas are combined for the analysis of a chemically reacting and high-temperature flow. This includes high-temperature effects, equilibrium and nonequilibrium processes, finite-rate chemistry, and energy transfer between energy modes. Examples and areas of interest include aerothermodynamics of hypersonic flight, planetary re-entry, and satellites; physical gas dynamics; nonequilibrium gas dynamics; and molecular gas dynamics.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Adv Stdg: Engineering. AME 323 or AME/BME 331.
+May be convened with
+AME537
+
+Component
+Lecture
+Optional Component
+No

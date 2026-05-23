@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS511 - Healthcare Data Science
+BIOS511
+Download as PDF
+BIOS511 - Healthcare Data Science
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+040948
+Course Description
+This course introduces you new tools and techniques used in healthcare related data sciences. Topics include: Basic knowledge of large clinical databases focusing on medical records, Cohort definition and extraction, Intro to SQL, Linux basic, Collaborative research using Git/GitHub, High performance computing and cloud computing, Shiny, Docker, TidyVerse, Basic predictive modeling, Select tool from data science for example spark (distributed analysis), TensorFlow.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - STATD (Statistics and Data Science)
+Course Requisites
+Background in statistical computing, data management.
+Cross Listed Courses
+EPID511
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

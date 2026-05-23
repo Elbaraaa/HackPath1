@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE524 - Fundamentals of Cloud Security
+ECE524
+Download as PDF
+ECE524 - Fundamentals of Cloud Security
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+039489
+Course Description
+Cloud Computing is an emerging paradigm that aims at delivering computing, information services, and data storage as a utility service over a network (e.g., Internet). There is a strong interest in cloud computing due to their performance and host, but their rapid deployment will exacerbate the security problem. In cloud computing, organizations relinquish direct control of many security aspects to the service providers such as trust, privacy preservation, identity management, data and software isolation, and service availability. The adoption and proliferation of cloud computing and services will be severely impacted if cloud security is not adequately addressed. The main goal of this course is discuss the limitations of current cybersecurity approaches to clouds and then focus on the fundamental issues to address the cloud security and privacy such as the confidentiality, integrity and availability of data and computations in clouds. In this course we will examine cloud computing models, look into the threat model and security issues related to data and computations outsourcing, and explore practical applications to make cloud resources secure and resilient to cyber attacks.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

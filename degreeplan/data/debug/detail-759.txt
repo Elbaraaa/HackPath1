@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME455 - Control System Design
+AME455
+Download as PDF
+AME455 - Control System Design
+Aerospace & Mechanical Engr  Undergraduate  UA - UA General 
+General
+Course ID
+005417
+Course Description
+Mathematical modeling of dynamical systems, hardware and software issues; computer simulations; classical control methods including transient response, steady-state errors, bode diagrams, root locus and design of closed loop control systems; introduction to state feedback design and digital control.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+AME 250 and AME 301. Prerequisite or concurrent enrollment in AME 300. Adv Stdg: Engineering.
+
+Component
+Lecture
+Optional Component
+No

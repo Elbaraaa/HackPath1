@@ -8,9 +8,18 @@ export function exportCSV(r: PlanResult) {
     ['Remaining Units', r.remainingUnits],
     [],
     ['SEMESTER PLAN'],
-    ['Term', 'Code', 'Title', 'Units', 'Warnings'],
+    ['Term', 'Term Units', 'Difficulty', 'CS-heavy Courses', 'Code', 'Title', 'Units', 'Warnings'],
     ...r.semesters.flatMap(s =>
-      s.courses.map(c => [s.term, c.code, c.title, c.units, c.warnings.join('; ')])
+      s.courses.map(c => [
+        s.term,
+        s.totalUnits,
+        s.difficultyScore ? `${s.difficultyScore} ${s.difficultyLabel || ''}`.trim() : '',
+        s.computerScienceCourses ?? '',
+        c.code,
+        c.title,
+        c.units,
+        [...(s.warnings || []), ...(c.warnings || [])].join('; ')
+      ])
     ),
     [],
     ['REQUIREMENTS'],

@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE587 - Metagenomics: From Genes to Ecosystems
+BE587
+Download as PDF
+BE587 - Metagenomics: From Genes to Ecosystems
+Biosystems Engineering  Graduate  UA - UA General 
+General
+Course ID
+038869
+Course Description
+Environmental genomics is revolutionizing our understanding of microbes from the environment to human health, towards a holistic view of ecosystems or \"One-Health\". At its core are new molecular methods called metagenomics to sequence DNA directly from an environmental sample, thus capturing the whole microbial community and bypassing culture. Modern (Next-Gen) sequencing technologies offer vast new datasets of short sequence reads representing these microbial communities, however many hurdles exist in interpreting data with high species complexity and given specialized software for microbial metagenomic analyses. This course focuses on the science of metagenomics towards understanding (1) questions that metagenomics can address, (2) possible approaches for metagenomic sequencing and analysis, and (3) how genes, pathways, and environmental context are translated into ecosystem-level knowledge. This course alternates between traditional lectures and hands-on experience with programming, bioinformatics tools, and metagenomic analysis. The course concludes with several weeks of seminar-format discussions on current research in metagenomic data analysis and a final project of your choice analyzing real-world experimental data.
+
+Graduate Students are expected work independently, and choose an original research article in metagenomics published within the last year, decompose the article based on engineering design elements, and present on it in class. Graduate students are required to submit a 10-page report that contrasts this article with literature in the same research area and describes the advances that this article makes. All graduate students will be required to present content from their report in class.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - ABS (Applied Biosciences), GIDP - ECGN (Ecosystem Genomics)
+Course Requisites
+May be convened with
+BE487
+
+Component
+Lecture
+Optional Component
+No

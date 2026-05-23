@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE220 - Basic Circuits
+ECE220
+Download as PDF
+ECE220 - Basic Circuits
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+012088
+Course Description
+Elementary, transient and sinusoidal analysis of linear circuits with laboratory. Topics include: passive sign convention, mesh and node analysis, Thevenin equivalents, op-amps, capacitance, inductance, first and second order circuits, phasors, impedance, transformers, PSpice simulation software.
+Min Units
+5
+Max Units
+5
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+SPEX - SPEXCR (Special Exam Credit Only)
+Enrollment Requirements
+MATH 129 and (PHYS 241 or PHYS 251 or PHYS 261H).
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

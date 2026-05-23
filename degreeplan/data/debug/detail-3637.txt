@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+COGS509 - Computing for Neuroimagers
+COGS509
+Download as PDF
+COGS509 - Computing for Neuroimagers
+Cognitive Science, Cmt  Graduate  UA - UA General 
+General
+Course ID
+042298
+Course Description
+This course introduces you to best practices for processing neuroimaging data with a focus on data organization and campus computing resources.
+
+We begin with software installation, HPC account setup, and a discussion of neuroimaging data. Subsequently, we explore issues of data sharing and reproducibility, emphasizing the BIDS standard for naming and organizing neuroimaging data, and the process of converting DICOM data into BIDS-compliant datasets.
+
+Before introducing individual data processing pipelines, you'll spend time learning about the HPC (High-Performance Computing Cluster): especially the job submission system (SLURM), and Globus for effective data transfer. Importantly, you'll use containerized applications to process data: DICOM conversion tools, anonymization software, quality assessment tools (e.g. MRIQC), fMRI preprocessing (fmriprep), and dMRI preprocessing tools (QSIprep).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+CGSC409
+
+Component
+Lecture
+Optional Component
+No

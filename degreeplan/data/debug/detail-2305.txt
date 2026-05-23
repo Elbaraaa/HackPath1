@@ -1,0 +1,78 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE385 - Precision Observation with Drones
+BE385
+Download as PDF
+BE385 - Precision Observation with Drones
+Biosystems Engineering  Undergraduate  UA - UA General 
+General
+Course ID
+039783
+Course Description
+Precision Observation with Drones is an introductory course about the practical aspects of small-scale multirotor unmanned aerial system with a strong emphasis on quadcopters. The course aims at introducing the students to the new and evolving field of small multirotor Unmanned Aerial Vehicles/Systems (UAV, UAS, Drones), their electrical and electronics subsystems, how they work, to size and build a small drone, add useful sensors, use the system for observing the physical and biological environment, and how to manage and process some of the most common data collected by drones.
+
+Upon completing this course, the student should become familiar with small drone technology, be able to understand their potentials and limitations, add different sensors, collect and analyze data with the drones.
+
+The course is aimed at all students with basic science and engineering knowledge and a desire to observe, remotely sense, and collect data about the natural environment with high precision.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+[Advanced Standing Engineering or (non-Engineering Junior/Seniors)] and [MATH 122B or MATH 124 or MATH 125].
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

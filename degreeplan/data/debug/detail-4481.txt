@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE588 - Microwave Engineering II: Active Circuit Design
+ECE588
+Download as PDF
+ECE588 - Microwave Engineering II: Active Circuit Design
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012345
+Course Description
+Planar active microwave circuits, diode and transistor characteristics, mixers, amps, oscillators, and frequency multipliers. Students will design circuits with CAD tools, fabricate in clean room, and measure performance in the lab. Graduate-level requirements include extra problems involving more challenging concepts and indepth knowledge of the material.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

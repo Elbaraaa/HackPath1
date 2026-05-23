@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV212 - Problem Solving with Scripting
+CYBV212
+Download as PDF
+CYBV212 - Problem Solving with Scripting
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+043423
+Course Description
+This course will introduce students to logic and problem-solving within scripting language environments. The course will build on the foundations of programming and scripting logic while solving real-world problems and creating practical applications. The course will provide a solid foundation of scripting data types, structures, and object-orientated programming. The course will incorporate multiple scripting languages to compare languages and their attributes related to specific programming applications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

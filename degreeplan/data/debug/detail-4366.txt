@@ -1,0 +1,77 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE430 - Photonics Communications
+ECE430
+Download as PDF
+ECE430 - Photonics Communications
+Optical Sciences, Col  Undergraduate  UA - UA General 
+General
+Course ID
+012151
+Course Description
+Physics of optical communication components and applications to communication systems. Topics include fiber attenuation and dispersion, laser modulation, photo detection and noise, receiver design, bit error rate calculations, and coherent communications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+Adv Stdg: Engineering.
+Course Requisites
+Students enrolling in this course should have completed ECE 207, ECE 220, OPTI 380A and 380B
+Cross Listed Courses
+May be convened with
+ECE530
+
+Component
+Lecture
+Optional Component
+No

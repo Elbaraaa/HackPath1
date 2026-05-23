@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE572 - Design, Modeling, and Simulation for High Technology Systems in Medicine
+ECE572
+Download as PDF
+ECE572 - Design, Modeling, and Simulation for High Technology Systems in Medicine
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+040746
+Course Description
+Healthcare is changing at a very rapid pace. So does its attendant complexity and ever increasing reliance on high technology support. Technical medicine, where sophisticated, technology-based methods are used in education of healthcare professionals and in treatment of patients, is becoming a recognized discipline. Such methods require a new generation engineers, scientists, and systems designers to integrate medical and technical domains. With this in mind, this concept proposes a new honors engineering technical elective, to train innovators is this emerging domain. The course will be open to honors engineering students from all departments.
+In this course students will investigate current medical and health care practices using high technology. The class will focus on systems design, modeling, and simulation technologies as applied to medicine.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Mastery of material in the areas of electrical and computer engineering, or mechanical engineering, or biomedical engineering at the level commensurate with senior/junior level standing.
+May be convened with
+ECE472
+
+Component
+Lecture
+Optional Component
+No

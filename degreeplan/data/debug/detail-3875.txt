@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC544 - Advanced Data Visualization
+CSC544
+Download as PDF
+CSC544 - Advanced Data Visualization
+Computer Science  Graduate  UA - UA General 
+General
+Course ID
+038454
+Course Description
+Data visualization is a research area that focuses on the use of visualization techniques to help people understand and analyze data. Visualization allows us to perceive relationships, patterns, and trends. While statistical techniques may determine correlations among the data, visualization helps us frame what questions to ask. Providing efficient and effective data visualization is a difficult challenge in many real world examples. One challenge lies in developing algorithmically efficient methods to visualize large and complex data sets. Another challenge is to develop effective visualizations that make the underlying patterns and trends easy to see. Even tougher is the challenge of providing interactive access, analysis, and filtering. All of these tasks become still more difficult with the size of the data sets arising in modern applications.
+
+This course will explore current research problems in visualizing large and complex data such as social networks with hundreds of thousands of participants and millions of relationships. Modeling such data and developing effective visualization tools is a challenging theoretical and practical task. This course will focus on classical as well as modern methods through projects that utilize real world large datasets from Netflix, IMDB, DBLP, and the Tree of Life.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - GC (Global Change)
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

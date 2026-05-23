@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE500B - Photonic Communications Engineering I B
+ECE500B
+Download as PDF
+ECE500B - Photonic Communications Engineering I B
+Optical Sciences, Col  Graduate  UA - UA General 
+General
+Course ID
+035495
+Course Description
+Photonic Communications Engineering (PCE) consists of two parts (I and II). Each part is further broken down into three courses: PCE IA, PCE IB, and PCE IC. PCE IA covers optical fiber light guiding, wave propagation characteristics, materials properties, and fabrication. PCE IB covers optical transmitters, receivers and amplifiers. PCE IC covers communications systems, fiber optics networks, and Internet infrastructure. Sections A, B, and C are each 1 credit and can be taken in any combination. When all three sections are taken together the course is designed as a survey, from the device to the systems level, of Photonic Communications Engineering. Reference material for the course is in a digital platform to allow dense hyper-linking between topics so that students from various disciplines can customize the reading material to their individual background knowledge.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+Cross Listed Courses
+OPTI500B
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS574B - Bayesian Statistical Theory and Applications
+BIOS574B
+Download as PDF
+BIOS574B - Bayesian Statistical Theory and Applications
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+012959
+Course Description
+Basic theory of Bayesian inference, including analytical and numerical methods for assessing posterior and predictive distributions, and applications. Topics will include Bayesian analysis of normal linear regression and computational methods including Markov chain Monte Carlo.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - GC (Global Change), GIDP - STATD (Statistics and Data Science)
+Course Requisites
+ECON 522A, ECON 522B; concurrent registration, MATH 566 and MATH 571A.
+Cross Listed Courses
+STAT574B
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

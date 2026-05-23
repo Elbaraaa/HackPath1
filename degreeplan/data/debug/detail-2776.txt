@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CE260 - Computer Programing in Civil Engineering
+CE260
+Download as PDF
+CE260 - Computer Programing in Civil Engineering
+Civil & Arch Engr & Mechanics  Undergraduate  UA - UA General 
+General
+Course ID
+039529
+Course Description
+This 1 unit course is designed to give students a basic knowledge of MATLAB programming. The course will cover fundamentals of MATLAB operations with arrays (vectors and matrices), it will discuss how to create script files, function files, use loop and conditional statements and present the computed results graphically. Students will be required to write simple programs in MATLAB.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+MATH 223
+Course Requisites
+May be convened with
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

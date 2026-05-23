@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CGSC344 - Modeling the Mind: Computational Models of Cognition
+CGSC344
+Download as PDF
+CGSC344 - Modeling the Mind: Computational Models of Cognition
+Cognitive Science, Cmt  Undergraduate  UA - UA General 
+General
+Course ID
+039115
+Course Description
+The goal of this class is to provide an introduction to the art of computational modeling in Cognitive Science using the Matlab programming language. Topics will include, how we model learning and simple decisions, how we connect computational models to observed experimental data (such as choices and neural activations) and how we can use modeling to design better experiments to test complex hypotheses.
+
+The class will be very much a \"hands on\" class, every week students will create a different model, starting in class and finishing at home. At the end, students should be able build a computational model from scratch, fit a model to data and determine which of a set of models best fits the observed experimental data.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Neuroscience & Cognitive Science.
+
+Component
+Lecture
+Optional Component
+No

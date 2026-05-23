@@ -1,0 +1,634 @@
+{
+    "seedVersion": 1,
+    "majorCode": "CSC-BS",
+    "majorName": "Bachelor of Science in Computer Science",
+    "institution": "University of Arizona",
+    "catalogYear": "unknown",
+    "sources": [
+      "CSC advisement reports",
+      "parsed course catalog"
+    ],
+    "notes": [
+      "This is a first-pass canonical seed for the CSC BS major.",
+      "Requirement options were collected from advisement reports and may be expanded over time.",
+      "Student-specific status should not be stored here."
+    ],
+    "policies": {
+      "advancedStanding": {
+        "minOverallUAGpa": 2.4,
+        "minBestAttemptsGpaFor120210244": 3.0,
+        "minAllCscAttemptsGpa": 2.0,
+        "minUaProgrammingCourses": 2,
+        "uaProgrammingCourseOptions": [
+          "CSC 110",
+          "CSC 120",
+          "CSC 210",
+          "CSC 252",
+          "CSC 317",
+          "CSC 335",
+          "CSC 337",
+          "CSC 343",
+          "CSC 346",
+          "CSC 352",
+          "CSC 372",
+          "CSC 380"
+        ]
+      },
+      "equivalencies": [
+        {
+          "group": "intro_programming",
+          "maxCount": 1,
+          "courses": ["CSC 110", "ECE 175", "ISTA 130"]
+        },
+        {
+          "group": "discrete_math_i",
+          "maxCount": 1,
+          "courses": ["CSC 144", "MATH 243", "MATH 323"]
+        },
+        {
+          "group": "computer_organization",
+          "maxCount": 1,
+          "courses": ["CSC 252", "ECE 369A"]
+        },
+        {
+          "group": "mobile_app_programming",
+          "maxCount": 1,
+          "courses": ["CSC 317", "CSCV 381"]
+        }
+      ],
+      "substitutions": [
+        {
+          "replacementCourse": "ECE 175",
+          "replaces": "CSC 110"
+        },
+        {
+          "replacementCourse": "ISTA 130",
+          "replaces": "CSC 110"
+        },
+        {
+          "replacementCourse": "MATH 243",
+          "replaces": "CSC 144"
+        },
+        {
+          "replacementCourse": "MATH 323",
+          "replaces": "CSC 144"
+        },
+        {
+          "replacementCourse": "ECE 369A",
+          "replaces": "CSC 252"
+        }
+      ]
+    },
+    "requirements": [
+      {
+        "code": "R15831",
+        "title": "Computer Science Supporting Mathematics Coursework",
+        "nodeType": "group",
+        "rule": {
+          "type": "complete_all_children"
+        },
+        "children": [
+          {
+            "code": "R15831/L10",
+            "title": "Supporting Mathematics",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "MATH 129",
+              "MATH 223",
+              "MATH 313"
+            ],
+            "notes": [
+              "Advisement reports showed MATH 129 and MATH 313 satisfying this line for different students."
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R15829",
+        "title": "Computer Science Supporting Science Coursework",
+        "nodeType": "group",
+        "rule": {
+          "type": "choose_n_children",
+          "requiredCount": 2
+        },
+        "notes": [
+          "Students must complete any two of the following requirements.",
+          "Selections may be from different subject areas."
+        ],
+        "children": [
+          {
+            "code": "R15829/L10",
+            "title": "Chemistry I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "CHEM 141",
+              "CHEM 143",
+              "CHEM 145",
+              "CHEM 151",
+              "CHEM 161",
+              "CHEM 163",
+              "CHEM 181",
+              "Approved Transfer Course"
+            ]
+          },
+          {
+            "code": "R15829/L20",
+            "title": "Chemistry II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "CHEM 142",
+              "CHEM 144",
+              "CHEM 146",
+              "CHEM 152",
+              "CHEM 162",
+              "CHEM 164",
+              "CHEM 182",
+              "Approved Transfer Course"
+            ]
+          },
+          {
+            "code": "R15829/L30",
+            "title": "Physics I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "PHYS 102",
+              "PHYS 110",
+              "PHYS 139",
+              "PHYS 140",
+              "PHYS 141",
+              "PHYS 161H",
+              "PHYS 181",
+              "Approved Transfer Coursework"
+            ]
+          },
+          {
+            "code": "R15829/L40",
+            "title": "Physics II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "PHYS 103",
+              "PHYS 111",
+              "PHYS 182",
+              "PHYS 239",
+              "PHYS 240",
+              "PHYS 241",
+              "PHYS 261H",
+              "Approved Transfer Coursework"
+            ]
+          },
+          {
+            "code": "R15829/L45",
+            "title": "Physics II - Option II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 3
+            },
+            "options": [
+              "PHYS 142",
+              "PHYS 162H"
+            ]
+          },
+          {
+            "code": "R15829/L50",
+            "title": "Biology I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "MCB 181L",
+              "MCB 181R",
+              "Approved Transfer Course"
+            ]
+          },
+          {
+            "code": "R15829/L60",
+            "title": "Biology II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 4
+            },
+            "options": [
+              "ECOL 182L",
+              "ECOL 182R",
+              "Approved Transfer Course"
+            ]
+          },
+          {
+            "code": "R15829/L70",
+            "title": "Other Supporting Science Options I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "GEOS 251",
+              "GEOS 255",
+              "MSE 110",
+              "PSIO 201",
+              "PSIO 202"
+            ]
+          },
+          {
+            "code": "R15829/L80",
+            "title": "Other Supporting Science Options II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "notes": [
+              "Coursework used in Other Supporting Science Options I cannot be used for this requirement."
+            ],
+            "options": [
+              "GEOS 251",
+              "GEOS 255",
+              "MSE 110",
+              "PSIO 201",
+              "PSIO 202"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R1299",
+        "title": "Computer Science Major: Foundation Courses",
+        "nodeType": "group",
+        "rule": {
+          "type": "complete_all_children"
+        },
+        "children": [
+          {
+            "code": "R1299/L30",
+            "title": "Computer Programming I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 110",
+              "ECE 175",
+              "ISTA 130"
+            ]
+          },
+          {
+            "code": "R1299/L40",
+            "title": "Computer Programming II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 120"
+            ]
+          },
+          {
+            "code": "R1299/L50",
+            "title": "Discrete Mathematics I",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 144",
+              "MATH 243",
+              "MATH 323"
+            ]
+          },
+          {
+            "code": "R1299/L70",
+            "title": "Software Development",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 210"
+            ]
+          },
+          {
+            "code": "R1299/L75",
+            "title": "Discrete Mathematics II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 244"
+            ]
+          },
+          {
+            "code": "R1299/L80",
+            "title": "At Least Two UA Programming Courses",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses_from_list",
+              "requiredCourses": 2
+            },
+            "options": [
+              "CSC 110",
+              "CSC 120",
+              "CSC 210",
+              "CSC 252",
+              "CSC 317",
+              "CSC 335",
+              "CSC 337",
+              "CSC 343",
+              "CSC 346",
+              "CSC 352",
+              "CSC 372",
+              "CSC 380"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R1300",
+        "title": "Computer Science Major: Advanced Standing",
+        "nodeType": "group",
+        "rule": {
+          "type": "complete_all_children"
+        },
+        "children": [
+          {
+            "code": "R1300/L50",
+            "title": "Core",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses_from_list",
+              "requiredCourses": 5
+            },
+            "options": [
+              "CSC 252",
+              "CSC 335",
+              "CSC 345",
+              "CSC 352",
+              "CSC 380",
+              "ECE 369A"
+            ]
+          },
+          {
+            "code": "R1300/L60",
+            "title": "Paradigms Area Elective",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 372"
+            ]
+          },
+          {
+            "code": "R1300/L70",
+            "title": "Theory and Writing Area Elective",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 437",
+              "CSC 445",
+              "CSC 450",
+              "CSC 473"
+            ]
+          },
+          {
+            "code": "R1300/L80",
+            "title": "Systems Area Elective",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "CSC 452",
+              "CSC 453"
+            ]
+          },
+          {
+            "code": "R1300/L90",
+            "title": "Electives",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "notes": [
+              "Some cross-listed courses may not be used toward this requirement."
+            ],
+            "options": [
+              "APCV 471",
+              "CSC 343",
+              "CSC 372",
+              "CSC 422",
+              "CSC 425",
+              "CSC 433",
+              "CSC 436",
+              "CSC 437",
+              "CSC 444",
+              "CSC 445",
+              "CSC 447",
+              "CSC 450",
+              "CSC 452",
+              "CSC 453",
+              "CSC 460",
+              "CSC 465",
+              "CSC 466",
+              "CSC 473",
+              "CSC 477",
+              "CSC 480",
+              "CSC 483"
+            ]
+          },
+          {
+            "code": "R1300/L100",
+            "title": "Additional Elective",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "notes": [
+              "Only one course from CSC 317 and CSCV 381 may be used towards the program.",
+              "Some cross-listed courses may not be used toward this requirement."
+            ],
+            "options": [
+              "APCV 381",
+              "APCV 471",
+              "CSC 317",
+              "CSC 337",
+              "CSC 343",
+              "CSC 346",
+              "CSC 372",
+              "CSC 382",
+              "CSC 422",
+              "CSC 425",
+              "CSC 433",
+              "CSC 436",
+              "CSC 437",
+              "CSC 444",
+              "CSC 445",
+              "CSC 447",
+              "CSC 450",
+              "CSC 452",
+              "CSC 453",
+              "CSC 460",
+              "CSC 465",
+              "CSC 466",
+              "CSC 473",
+              "CSC 477",
+              "CSC 480",
+              "CSC 483"
+            ]
+          },
+          {
+            "code": "R1300/L110",
+            "title": "Additional Elective II",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "APCV 471",
+              "CSC 343",
+              "CSC 372",
+              "CSC 401A",
+              "CSC 401B",
+              "CSC 422",
+              "CSC 425",
+              "CSC 433",
+              "CSC 436",
+              "CSC 437",
+              "CSC 438",
+              "CSC 439",
+              "CSC 444",
+              "CSC 445",
+              "CSC 447",
+              "CSC 450",
+              "CSC 452",
+              "CSC 453",
+              "CSC 455",
+              "CSC 460",
+              "CSC 465",
+              "CSC 466",
+              "CSC 473",
+              "CSC 474A",
+              "CSC 477",
+              "CSC 480",
+              "CSC 483",
+              "DATA 439",
+              "ECE 474A",
+              "GAME 452",
+              "ISTA 439",
+              "LING 438",
+              "LING 439",
+              "MATH 401A",
+              "MATH 401B",
+              "MATH 402",
+              "MATH 443",
+              "MATH 445",
+              "MATH 475A",
+              "PHIL 401A",
+              "PHIL 401B",
+              "PHIL 455",
+              "PSY 438"
+            ]
+          }
+        ]
+      },
+      {
+        "code": "R1511",
+        "title": "Computer Science Major Graduation Requirements",
+        "nodeType": "group",
+        "rule": {
+          "type": "complete_all_children"
+        },
+        "children": [
+          {
+            "code": "R1511/L10",
+            "title": "Mid Career Writing Assessment",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "courses",
+              "requiredCourses": 1
+            },
+            "options": [
+              "ENGL 102",
+              "ENGL 108"
+            ],
+            "notes": [
+              "Report language says complete 2nd semester English Composition with a B grade or higher."
+            ]
+          },
+          {
+            "code": "R1511/L30",
+            "title": "Major Units",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 51
+            }
+          },
+          {
+            "code": "R1511/L40",
+            "title": "Major GPA",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "gpa",
+              "requiredGpa": 2.0
+            }
+          },
+          {
+            "code": "R1511/L45",
+            "title": "Major Upper Division",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 30
+            }
+          },
+          {
+            "code": "R1511/L50",
+            "title": "Major Residency",
+            "nodeType": "requirement",
+            "rule": {
+              "type": "units",
+              "requiredUnits": 18
+            }
+          }
+        ]
+      }
+    ]
+  }

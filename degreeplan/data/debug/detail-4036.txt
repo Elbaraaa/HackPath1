@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA201 - Foundations of Data Science
+DATA201
+Download as PDF
+DATA201 - Foundations of Data Science
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+043214
+Course Description
+According to the Bureau of Labor Statistics, three-quarters of all STEM jobs in the next decade will have a substantial Data Science component in the job description. This course is designed to answer the fundamental questions \"What is data science\", and, \"How can I use data science in my future STEM career\". Through an in-depth exploration of the three perspectives of data science - data wrangler, data analyst, and data storyteller- supported by the foundation of data technologies and ethics, students will engage with fundamental concepts in data science while enhancing critical skills in computer programming and statistical inference to analyze real-world big, complex scientific data from their fields. Upon course completion, students will be prepared to utilize all perspectives of data science to extract insights from the data in their areas of study using quantitatively intensive approaches and be able to communicate their findings.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+GEED - BC (Gen Ed: Building Connections)
+Enrollment Requirements
+Statistics (Math 163 or 263) or Calculus (Math 122B or 125 or 129).
+
+Component
+Discussion
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

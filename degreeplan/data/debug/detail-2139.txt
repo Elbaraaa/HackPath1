@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ASTR513 - Statistical and Computational Methods in Astrophysics
+ASTR513
+Download as PDF
+ASTR513 - Statistical and Computational Methods in Astrophysics
+Astronomy  Graduate  UA - UA General 
+General
+Course ID
+040414
+Course Description
+This course introduce basic computational methods for solving problems numerically in astrophysics and the foundations of modern statistical methods that are used in current research problems, with emphasis on big-data science. The topics will include basic scientific algorithms to solve integrals and simple differential equations frequently encountered in astrophysics, frequentist and Bayesian inference methods, non-linear regressions methods, modeling of data, Monte Carlo techniques, error estimation, and model selection.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

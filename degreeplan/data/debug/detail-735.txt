@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME410 - Introduction to Additive Manufacturing
+AME410
+Download as PDF
+AME410 - Introduction to Additive Manufacturing
+Aerospace & Mechanical Engr  Undergraduate  UA - UA General 
+General
+Course ID
+040563
+Course Description
+Additive Manufacturing (AM), as defined by ASTM International Committee F42, is the process of joining materials to make objects from three-dimensional (3D) model data, usually layer by layer, as opposed to subtractive manufacturing methodologies. Traditional manufacturing processes are subtractive, creating the object by machining, forming, casting, etc. AM converts computer-aided design (CAD) models to Standard Tessellation Language (STL), the de facto standard. The STL file describes the external closed surfaces of the original CAD model and forms the basis for calculation of the slices. Thus, it can be used to construct the 3D objects layer by layer using various materials (e.g. metallic, plastic).
+
+In this course, engineering materials and their properties are first reviewed. Traditional manufacturing such as casting, forming, machining, and joining processes are introduced and discussed. Additive manufacturing is then presented. Both general process chain and specific processes are presented (e.g. photopolymerization, powder bed fusion process). Materials properties of each manufacturing process are examined and compared to each other. Design and optimization for AM is highlighted. Real engineering applications are reviewed and discussed. A final project is required so that student can gain experiences in the entire AM process.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing in Engineering required.  Course Prerequisites: AME 313, MSE 331R, and (BE 221 OR AME 211).
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

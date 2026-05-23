@@ -1,0 +1,78 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC437 - Geometric Algorithms
+CSC437
+Download as PDF
+CSC437 - Geometric Algorithms
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+009826
+Course Description
+The study of algorithms for geometric objects, using a computational geometry approach, with an emphasis on applications for graphics, VLSI, GIS, robotics, and sensor networks. Topics may include the representation and overlaying of maps, finding nearest neighbors, solving linear programming problems, and searching geometric databases.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+WE - WEC (Writing Emphasis Course)
+Enrollment Requirements
+CSC 345
+May be convened with
+CSC537
+
+Component
+Discussion
+Optional Component
+Yes
+Component
+Lecture
+Optional Component
+No

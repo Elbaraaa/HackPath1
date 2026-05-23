@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV310 - Introduction to Security Programming I
+CYBV310
+Download as PDF
+CYBV310 - Introduction to Security Programming I
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041314
+Course Description
+CYBV 310 provides students with an introduction to C programming. Students will use hands-on exercises to practice and implement applications developed in the C programming language on x86 processors. Students will learn how to write business applications as well as small utility programs. Students will gain a good grasp of debugging and how to perform error handling and build larger applications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

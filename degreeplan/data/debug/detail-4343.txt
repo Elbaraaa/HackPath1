@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE372A - Microprocessor Organization
+ECE372A
+Download as PDF
+ECE372A - Microprocessor Organization
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+036752
+Course Description
+This course is an introduction to microcontroller organization, hardware interfacing, and system design. Topics include, but are not limited to: C Programming for Microcontrollers, Memory Organization and Addressing Modes, Interrupts, Timers, Parallel and Serial Interfacing, Analog-to-Digital Conversion, Overview of Common Peripheral Components, Event-driven Software Development, and Motor Control. In addition to lectures, students will have hands-on lab assignments that provide you with the opportunity to build and utilize the PIC24F platform. Students will also have a course project in which they will propose, design/implement, and present a self-selected project, subject to approval by the instructor.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. Prerequisite: (ECE 207 or 220) and ECE 274A and prerequisite or concurrent enrollment: ECE 201.
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

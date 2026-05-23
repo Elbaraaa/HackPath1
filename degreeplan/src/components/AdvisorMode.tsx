@@ -1,16 +1,28 @@
 'use client';
-import { useState, useRef } from 'react';
+import { useEffect, useMemo, useState, useRef } from 'react';
 import { Course } from '@/types';
 import CourseForm from './CourseForm';
 import { PlusIcon } from './Icons';
 
 interface AdvisorModeProps {
   courses: Course[];
+  courseTotal?: number;
+  loadingMoreCourses?: boolean;
+  onLoadMoreCourses?: () => void;
+  onSearchCourses?: (q: string) => void;
   setCourses: React.Dispatch<React.SetStateAction<Course[]>>;
   showToast: (title: string, desc: string, type: string) => void;
 }
 
-export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorModeProps) {
+export default function AdvisorMode({
+  courses,
+  courseTotal = courses.length,
+  loadingMoreCourses = false,
+  onLoadMoreCourses,
+  onSearchCourses,
+  setCourses,
+  showToast
+}: AdvisorModeProps) {
   const [section, setSection]     = useState('db');
   const [search, setSearch]       = useState('');
   const [fMajor, setFMajor]       = useState('All');
@@ -19,16 +31,45 @@ export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorM
   const [modal, setModal]         = useState(false);
   const [pdfState, setPdfState]   = useState<'idle' | 'processing' | 'done' | 'error'>('idle');
   const [pdfMsg, setPdfMsg]       = useState('');
+  const [visibleCount, setVisibleCount] = useState(20);
   const fileRef                   = useRef<HTMLInputElement>(null);
 
-  const majors   = ['All', ...new Set(courses.map(c => c.major))];
-  const cats     = ['All', ...new Set(courses.map(c => c.category))];
+  const majors   = ['All', ...new Set(courses.map(c => c.major || 'Uncategorized'))];
+  const cats     = ['All', ...new Set(courses.map(c => c.category || 'Uncategorized'))];
   const q        = search.toLowerCase();
-  const filtered = courses.filter(c =>
+  const filtered = useMemo(() => courses.filter(c =>
     (!q || c.code.toLowerCase().includes(q) || c.title.toLowerCase().includes(q) || c.description.toLowerCase().includes(q)) &&
-    (fMajor === 'All' || c.major === fMajor) &&
-    (fCat   === 'All' || c.category === fCat)
-  );
+    (fMajor === 'All' || (c.major || 'Uncategorized') === fMajor) &&
+    (fCat   === 'All' || (c.category || 'Uncategorized') === fCat)
+  ), [courses, fCat, fMajor, q]);
+  const visibleCourses = filtered.slice(0, visibleCount);
+
+  useEffect(() => {
+    setVisibleCount(20);
+  }, [search, fMajor, fCat]);
+
+  useEffect(() => {
+    if (!onSearchCourses) return;
+    const timer = window.setTimeout(() => {
+      onSearchCourses(search);
+    }, 300);
+    return () => window.clearTimeout(timer);
+  }, [search]);
+
+  const loadMoreRows = () => {
+    setVisibleCount(count => Math.min(count + 20, filtered.length));
+    if (visibleCount + 20 >= filtered.length && courses.length < courseTotal) {
+      onLoadMoreCourses?.();
+    }
+  };
+
+  const handleTableScroll = (e: React.UIEvent<HTMLDivElement>) => {
+    const el = e.currentTarget;
+    const distanceFromBottom = el.scrollHeight - el.scrollTop - el.clientHeight;
+    if (distanceFromBottom < 80 && visibleCount < filtered.length) {
+      loadMoreRows();
+    }
+  };
 
   const tagCls = (cat: string) =>
     cat.includes('Core') ? 'tag-core' : cat.includes('Capstone') ? 'tag-capstone' :
@@ -99,7 +140,7 @@ export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorM
         </div>
         <div className="card"><div className="card-body">
           <div className="stat-grid">
-            <div className="stat-card"><div className="stat-num">{courses.length}</div><div className="stat-label">Courses</div></div>
+            <div className="stat-card"><div className="stat-num">{courseTotal}</div><div className="stat-label">Courses</div></div>
             <div className="stat-card"><div className="stat-num">{new Set(courses.map(c => c.major)).size}</div><div className="stat-label">Majors</div></div>
             <div className="stat-card"><div className="stat-num">{new Set(courses.map(c => c.category)).size}</div><div className="stat-label">Categories</div></div>
             <div className="stat-card"><div className="stat-num">{courses.filter(c => c.prereqs.length === 0).length}</div><div className="stat-label">No prereqs</div></div>
@@ -124,9 +165,9 @@ export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorM
                 <input className="db-search" placeholder="Search courses…" value={search} onChange={e => setSearch(e.target.value)} />
                 <select className="db-filter-sel" value={fMajor} onChange={e => setFMajor(e.target.value)}>{majors.map(m => <option key={m}>{m}</option>)}</select>
                 <select className="db-filter-sel" value={fCat}   onChange={e => setFCat(e.target.value)}>{cats.map(c => <option key={c}>{c}</option>)}</select>
-                <span className="db-count">{filtered.length} course{filtered.length !== 1 ? 's' : ''}</span>
+                <span className="db-count">Showing {visibleCourses.length} of {filtered.length} loaded ({courses.length} / {courseTotal} total)</span>
               </div>
-              <div className="table-wrap" style={{ maxHeight: 460, overflowY: 'auto' }}>
+              <div className="table-wrap" style={{ maxHeight: 460, overflowY: 'auto' }} onScroll={handleTableScroll}>
                 <table>
                   <thead><tr>
                     <th>Code</th><th>Title</th><th>Major</th><th>Category</th>
@@ -139,15 +180,15 @@ export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorM
                         No courses yet. Upload a catalog PDF or add courses manually.
                       </td></tr>
                     )}
-                    {filtered.map(c => (
+                    {visibleCourses.map(c => (
                       <tr key={c.id}>
                         <td><span style={{ fontFamily: "'JetBrains Mono',monospace", fontWeight: 700, fontSize: 11, color: 'var(--ua-blue)' }}>{c.code}</span></td>
                         <td>
                           <div style={{ fontWeight: 500, fontSize: 12 }}>{c.title}</div>
                           {c.description && <div style={{ fontSize: 10, color: '#9ca3af', marginTop: 1, maxWidth: 180, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c.description}</div>}
                         </td>
-                        <td style={{ fontSize: 11, color: '#6b7280', maxWidth: 110, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{c.major}</td>
-                        <td><span className={`course-tag ${tagCls(c.category)}`}>{c.category}</span></td>
+                        <td style={{ fontSize: 11, color: '#6b7280', maxWidth: 110, whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{c.major || 'Uncategorized'}</td>
+                        <td><span className={`course-tag ${tagCls(c.category || '')}`}>{c.category || 'Uncategorized'}</span></td>
                         <td style={{ textAlign: 'center' }}><span style={{ fontFamily: "'JetBrains Mono',monospace", fontWeight: 700, fontSize: 12 }}>{c.units}</span></td>
                         <td>{c.prereqs.length === 0 ? <span style={{ color: '#9ca3af', fontSize: 11 }}>—</span> : c.prereqs.map(p => <span key={p} className="prereq-chip">{p}</span>)}</td>
                         <td>{c.offered.map(o => <span key={o} className="offered-chip">{o}</span>)}</td>
@@ -161,6 +202,11 @@ export default function AdvisorMode({ courses, setCourses, showToast }: AdvisorM
                     ))}
                   </tbody>
                 </table>
+                {(visibleCount < filtered.length || courses.length < courseTotal) && (
+                  <button className="btn-sample" style={{ margin: 10 }} onClick={loadMoreRows} disabled={loadingMoreCourses}>
+                    {loadingMoreCourses ? 'Loading courses...' : 'Load more courses'}
+                  </button>
+                )}
               </div>
             </div>
           </div>

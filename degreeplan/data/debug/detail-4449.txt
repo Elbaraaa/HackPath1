@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE544 - Information Theory with Quantum Light
+ECE544
+Download as PDF
+ECE544 - Information Theory with Quantum Light
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+043611
+Course Description
+Quantum information (QI) with quantum states of light (aka QI with continuous variables or photonic QI) is the field that investigates the manipulation, processing and detection of non-classical, information-bearing, light. This way, we can process information encoded in photons much more efficiently compared to conventional (classical) methods, with applications in optical communications, security, sensing and computation.
+
+Electromagnetic radiation is used to transmit information, to detect objects or even sense their different properties. Therefore, QI with quantum states of light has become the mainstream focus of the research community resulting to tangible technological products with provable unprecedented performance, while it remains an exciting and rich area of things to be discovered.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+ECE 310, ECE 381A.
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV579 - Cloud Security
+CYBV579
+Download as PDF
+CYBV579 - Cloud Security
+Applied Science  Graduate  UA - UA General 
+General
+Course ID
+042877
+Course Description
+This course provides an in-depth study of the theory and best practice application of cloud security. Topics include platform, infrastructure and application security; cloud security operations; cloud governance, risk, and compliance management; cloud vulnerability assessment and penetration testing; cloud digital forensics and incident response management. The course also analyzes the application of SecDevOps/DevSecOps principles across the spectrum, including container security and the concept of \"Shifting Security Left,\" whereby security testing and validation are introduced earlier in the software development life cycle.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

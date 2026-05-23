@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ACBS553 - Statistics for Applied Biological Experiments
+ACBS553
+Download as PDF
+ACBS553 - Statistics for Applied Biological Experiments
+Animal & Biomedical Sciences  Graduate  UA - UA General 
+General
+Course ID
+006752
+Course Description
+This course is intended for graduate students in the biological sciences. Topics covered will include parameter estimation, hypothesis testing, regression and ANOVA, graphical exploration of data, Bayesian statistics and resampling methods, and experimental design. Principles of statistical practice will be highlighted and practical experience gained through laboratory homework exercises. The statistical language R will be used for analysis, however other software such as SAS could be used.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - ABS (Applied Biosciences)
+Course Requisites
+MATH 113, or equivalents. MATH 160, statistics, helpful, but not required.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

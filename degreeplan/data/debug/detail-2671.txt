@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN532 - Database Foundations
+BNAN532
+Download as PDF
+BNAN532 - Database Foundations
+Business Analytics, Sch of  Graduate  UA - UA General 
+General
+Course ID
+043174
+Course Description
+This course will review how database management systems are at the heart of today's business information systems. It will emphasize how they facilitate the sharing of data across organizations and allow for effective business operation and strategic decision making by managers. The course will focus on how to develop an effective database design, how to store and retrieve data, and understanding why this constitutes a core activity for any organization. Specifically, we deal with Relational databases and how to manipulate them using Structured Query Language (SQL).
+Min Units
+2
+Max Units
+2
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+Major: BNANMS
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME487 - Design of Mechatronic Systems
+AME487
+Download as PDF
+AME487 - Design of Mechatronic Systems
+Aerospace & Mechanical Engr  Undergraduate  UA - UA General 
+General
+Course ID
+036049
+Course Description
+This is a hands-on laboratory course presents the field of embedded systems through a series of lectures and independent-study hands-on modules. Students work individually or in teams of two and complete weekly mini-projects aimed at providing a working knowledge of micro-controller programming, basic digital and analog circuits, and design of discrete-time controllers. Each of the mini-projects is implemented and tested on an electronic breadboard. The course culminates with an open-ended design project integrating the skills developed though the mini-modules. Students in the graduate section of the course are required to demonstrate an ability to design and implement closed-loop control as part of their design project.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Adv Stdg: Engineering.
+
+Component
+Laboratory
+Optional Component
+Yes
+Component
+Lecture
+Optional Component
+No

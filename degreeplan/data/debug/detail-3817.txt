@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC337 - Web Programming
+CSC337
+Download as PDF
+CSC337 - Web Programming
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+036362
+Course Description
+Introduction to the techniques and technologies for developing dynamic web sites. This course covers both client-side and server-side development. Client-side development will include HTML, CSS, Javascript, and AJAX. Server-side development will include web server development, deployment and integration with a DMBS. Other topics covered include: security concerns for web applications, password salting and hashing, and domains. This course includes a team project to deploy a web application.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CSC 110 or ISTA 130 or ECE 101 or ECE 175.
+
+Component
+Lecture
+Optional Component
+No

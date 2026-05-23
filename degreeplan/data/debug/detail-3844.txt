@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC450 - Algorithms in Bioinformatics
+CSC450
+Download as PDF
+CSC450 - Algorithms in Bioinformatics
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+036458
+Course Description
+This course introduces fundamental results in discrete algorithms for combinatorial problems in bioinformatics and computational biology. The emphasis is on realistic models of computational problems that arise in the analysis of biological data, and practical algorithms for their solution. The content has depth in the area of biological sequence analysis, and breadth in areas such as phylogeny construction, protein structure prediction, and genome rearrangement analysis. Grades are based on homeworks, exams, programming projects, and a class presentation.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CSC 345
+Course Requisites
+For both computer science and non-computer science majors, mathematical maturity will be helpful.
+May be convened with
+CSC550
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BME310 - Medical Device Design
+BME310
+Download as PDF
+BME310 - Medical Device Design
+Biomedical Engineering  Undergraduate  UA - UA General 
+General
+Course ID
+040914
+Course Description
+The medical device design experience consists of a series of two to four-week long modules over the course of one semester. During the first quarter of the semester, existing medical devices will be examined and analyzed. In the next half of the semester, students will build two to four devices in design modules. Students will first learn about the conceptual and practical aspects of a device and then implement that device. The modules will focus on technologies, such as microfluidics, electronics, flexible electronics, mechanical and micromechanical components, soft materials, sensors, optical elements, and software. For the last quarter of the course, students will compete in the design and testing of a medical device challenge.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Engineering Advanced Standing, BME majors.
+Course Requisites
+BME 210 or ECE101 Computer Programming and BME 225 (or BE 221 Intro CAD or ECE 372A Microcontroller Design)]
+May be convened with
+
+Component
+Workshop
+Optional Component
+No

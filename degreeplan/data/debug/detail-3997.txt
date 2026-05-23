@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV472 - Secure Software Development & Assessment
+CYBV472
+Download as PDF
+CYBV472 - Secure Software Development & Assessment
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+039674
+Course Description
+Provides students with an introduction to the secure software development process as well as how to conduct a software security analysis to detect the presence of weaknesses that may lead to exploitable vulnerabilities in operational systems. Students will learn how to write, analyze, and test secure software that maintains Confidentiality, Integrity and Availability.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+(CYBR 470 or CSCV 352) and (CYBR 471 and CSCV 452 and CYBR 454).
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

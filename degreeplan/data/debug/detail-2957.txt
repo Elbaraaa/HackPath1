@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CHEE205 - Introduction to MatLab and Python
+CHEE205
+Download as PDF
+CHEE205 - Introduction to MatLab and Python
+Chemical & Environmental Engr  Undergraduate  UA - UA General 
+General
+Course ID
+041394
+Course Description
+This course will introduce students to the fundamental principles of numerical computations and analyses using MatLab and Python. MatLab can be used for math computations, modeling and simulations, data analysis and processing, visualization and graphics, and algorithm development. Python is an interpreted high-level general-purpose programming language aimed to help programmers write clear, logical code for small and large-scale projects. Skills learned in this course will aid students in understanding how to calculate various parameters of interest in complex engineering scenarios.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+MATH 122B or MATH 125
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

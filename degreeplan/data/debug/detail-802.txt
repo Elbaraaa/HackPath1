@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME547 - Battery Systems and Control
+AME547
+Download as PDF
+AME547 - Battery Systems and Control
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+043973
+Course Description
+Students will acquire a foundation in rechargeable batteries operation, application, and modeling. Rechargeable batteries are one of the most feasible energy storage technologies with broad application areas ranging from cell phones and laptops up to electric vehicles (EVs)/electric airplanes (EAs) and grid storage. Batteries have long been an essential part of engineering programs since they provide fundamentals for most future energy management systems. In this course, students will be able to identify the major components of a lithium-ion cell, module, and stack. You will gain a basic understanding of battery usage in EVs/EAs and battery management systems. Different types of battery modeling techniques and methods will be introduced and explained. Several real-life examples of modern rechargeable battery types will be emphasized. In addition, graduate students will learn to apply advanced thermal analysis to EVs using machine learning and multi-physics techniques. At the end of the course, you will develop a good understanding of battery operation and application by using the physics and physical arguments that underpin the theory.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+May be convened with
+AME447
+
+Component
+Lecture
+Optional Component
+No

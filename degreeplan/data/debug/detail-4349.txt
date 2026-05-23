@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE401C - Data Management
+ECE401C
+Download as PDF
+ECE401C - Data Management
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+043653
+Course Description
+This course provides students with a comprehensive introduction to the design and programming aspects of data management systems. This course covers fundamental concepts, techniques, and tools that are essential for developing databases and utilizing them in various engineering applications. The course encompasses a wide range of topics, including the understanding of data types and their lifecycle, the entity-relationship data model, Structured Query Language (SQL), logical and physical database design, query languages, query processing and optimization, concurrency control, and crash recovery mechanisms. By the end of this course, students will have a solid foundation in the design and programming of databases, enabling them to develop sophisticated and reliable data management systems for a variety of engineering applications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Adv Stdg: Engineering. Major: ECE or CSE. Prerequisite ECE 201 and prerequisite or concurrent enrollment in CSC 355.
+May be convened with
+ECE501C
+
+Component
+Lecture
+Optional Component
+No

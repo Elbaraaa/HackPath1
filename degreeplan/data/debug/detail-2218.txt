@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ATMO560 - Bioclimate
+ATMO560
+Download as PDF
+ATMO560 - Bioclimate
+Hydrology & Atmospheric Sci  Graduate  UA - UA General 
+General
+Course ID
+043028
+Course Description
+This course will follow the perspective of \"system thinking and earth system prediction\" and introduces how climate influences and is influenced by biotic components, including vegetation, microbial communities, and human beings. The course is designed for students seeking to learn basic ecological and biological concepts and methods of parameterizing biological functions in the earth system models. The course is also designed for students who aim to master the basic concept of climate science and methods of integrating biological data for analyzing climate-land interaction.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+There are no specific course prerequisites, however, knowing about calculus, statistical analysis, or at least one of computer skills (e.g., python, Fortran, Matlab, R) will be very useful to perform some of course practices.
+May be convened with
+460
+
+Component
+Lecture
+Optional Component
+No

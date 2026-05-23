@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS686 - Survival Analysis
+BIOS686
+Download as PDF
+BIOS686 - Survival Analysis
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+014337
+Course Description
+This course introduces basic concepts and methods for analyzing survival time data obtained from following individuals until occurrence of an event or their loss to follow up. We will begin this course from describing the characteristics of survival data and building the link between distribution, survival and hazard functions. After that we will cover non-parametric, semi-parametric and parametric models and two-sample test techniques. In addition we will also demonstrate mathematical and graphical methods for evaluation goodness of fit and introduce the concept of dependent censoring/competing risk. During the class students will also learn how to use a computer package, SAS, Splus or Stata to analyze survival data.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - STATD (Statistics and Data Science)
+Course Requisites
+BIOS/EPID 576A, BIOS/EPID 576B.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

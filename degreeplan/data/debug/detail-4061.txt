@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA470 - Data Visualization
+DATA470
+Download as PDF
+DATA470 - Data Visualization
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+042885
+Course Description
+Foundation in the principles of data visualization, particularly as applied to technical data. Hands-on experience using modern software tools for developing visualizations. Topics will include an overview of visual perception, color theory and practice, different types of graphs and their purposes, visualizations for specialized forms of data including time-series and geospatial data sets, strategies for working with multidimensional data, etc. Ethical issues surrounding data visualization. Introduction to visualization using R's ggplot and Shiny.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+DATA 375
+
+Component
+Lecture
+Optional Component
+No

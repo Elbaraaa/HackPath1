@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA498D - Capstone for Data Science
+DATA498D
+Download as PDF
+DATA498D - Capstone for Data Science
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+043877
+Course Description
+A culminating \"capstone\" experience that synthesizes concepts and skills for learning from data, as accumulated over the students' experience in the Data Science and Statistics & Data Science majors. We will introduce students to activities that will round out their undergraduate experience, including, concepts in reproducible research, ethics in statistical and data science practice, high performance computing, written and oral communication skills, working in teams, and professional development. Students will engage in projects and work to complete their academic portfolio.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+SEA - DI (Discovery), SEC - PRO (Professionalism), WE - WEC (Writing Emphasis Course)
+Enrollment Requirements
+Prerequisite DATA 375 and prerequisite or concurrent enrollment in (DATA 467 or CSC 480 or MCB 447).
+
+Component
+Lecture
+Optional Component
+No

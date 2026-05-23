@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC144 - Discrete Mathematics for Computer Science I
+CSC144
+Download as PDF
+CSC144 - Discrete Mathematics for Computer Science I
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+042000
+Course Description
+The first of a two-course sequence introducing mathematical concepts for Computer Science. Topics include: propositional and predicate logic; proofs; sets, matrices, relations, and functions; integers and modular arithmetic.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+[C or higher (CSC 110, ISTA 130, ECE 175, or ECE 101) or prior prog. lang. exp. w/dept. approval] AND [PPL 60+ or SAT I MSS 640+ or ACT MATH 26+ or(C or higher in MATH 108 or 112)or 1 from MATH 113,116,120R,122A,122B,or125. Test scores exp. after 2 yrs]
+
+Component
+Lecture
+Optional Component
+No

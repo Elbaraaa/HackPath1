@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE506 - Reconfigurable Computing
+ECE506
+Download as PDF
+ECE506 - Reconfigurable Computing
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012242
+Course Description
+In this class, we investigate the state-of-the-art in reconfigurable computing both from a hardware and software perspective; understand both how to architect reconfigurable systems and how to apply them to solving challenging computational problems. The purpose of this course is to prepare students for engaging in research on reconfigurable computing.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Digital design fundamentals, computer architecture and organization, programming language (C is a must, VHDL/Verilog knowledge preferred).
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE462 - Computer Architecture and Design
+ECE462
+Download as PDF
+ECE462 - Computer Architecture and Design
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+012180
+Course Description
+This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. It provides basic knowledge, fundamental concepts, design techniques and trade-offs, machine structures, technology factors, software implications, and evaluation methods and tools required for understanding and designing modern computer architectures including multicores, embedded systems, and parallel systems. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first part of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second part goes into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern computing system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. The third part addresses parallel computing, including multicore architectures, datacenters and cloud computing.d others.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. ECE 369A.
+Course Requisites
+May be convened with
+ECE562
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,77 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC439 - Statistical Natural Language Processing
+CSC439
+Download as PDF
+CSC439 - Statistical Natural Language Processing
+Linguistics  Undergraduate  UA - UA General 
+General
+Course ID
+019834
+Course Description
+This course introduces the key concepts underlying statistical natural language processing. Students will learn a variety of techniques for the computational modeling of natural language, including: n-gram models, smoothing, Hidden Markov models, Bayesian Inference, Expectation Maximization, Viterbi, Inside-Outside Algorithm for Probabilistic Context-Free Grammars, and higher-order language models.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+Students may not take ISTA 355 concurrently with LING/CSC/ISTA 439. Completion of ISTA 355 is not required to take LING/CSC/ISTA 439.
+Course Requisites
+Recommended completion of 1 course from: ISTA 350, CSC 345, DATA 375, LING 388 or LING 438, or equivalent.
+Cross Listed Courses
+May be convened with
+CSC539
+
+Component
+Lecture
+Optional Component
+No

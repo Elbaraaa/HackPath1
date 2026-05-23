@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN565 - Regression and Analytics Models
+BNAN565
+Download as PDF
+BNAN565 - Regression and Analytics Models
+Business Analytics, Sch of  Graduate  UA - UA General 
+General
+Course ID
+043843
+Course Description
+Model building from data is a foundational part of analytics. This course gives a rigorous introduction into the regression model alongside related topics. After examining distributions for modeling data, hypothesis testing, and correlation, the course focuses on the modeling process. The course concludes with an introduction to modeling binary categorical outcomes through logistic regression. Although mathematical matrices and theory are included, the emphasis is on learning to construct business models from data. Computations will be completed using current software packages.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+Major: BNANMS. BNAN 562.
+
+Component
+Lecture
+Optional Component
+No

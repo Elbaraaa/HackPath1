@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV660 - Zero Trust Defensive Techniques
+CYBV660
+Download as PDF
+CYBV660 - Zero Trust Defensive Techniques
+Applied Science  Graduate  UA - UA General 
+General
+Course ID
+043035
+Course Description
+This course explores the implementation of Zero Trust Architecture (ZTA) principles in a legacy network. Students will address the quantification of effectiveness as ZTA is incrementally implemented in design and architecture, then proceed to addressing cloud data security, cloud platform and infrastructure security, cloud application security, cloud security operations, cloud risk management and compliance management. ZTA guidelines set forth by the National Institute of Standards and Technology (NIST), Center for Internet Security (CIS), industry accepted best-practices, and data-driven applications in cybersecurity will be leveraged through this course.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

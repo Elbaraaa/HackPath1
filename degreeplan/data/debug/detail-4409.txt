@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE502C - Operating System Design
+ECE502C
+Download as PDF
+ECE502C - Operating System Design
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+043660
+Course Description
+This is a foundational course that offers an introduction to computer operating systems and their applications in engineering systems, the course delves into the principles and techniques involved in designing and implementing operating systems. It covers a wide range of topics, including operating system structures, process management, process synchronization, memory management, storage management, file systems, device management, and network and distributed operating systems. While the course covers important theoretical concepts, formal proofs are not emphasized. Instead, concepts are conveyed through real-world examples from modern engineering systems. A key focus of the course is providing students with practical experience in C programming for low-level operating system development, students will have the opportunity to work with and understand low-level tools for system diagnostics. By engaging in hands-on projects and assignments, students will gain significant exposure to the intricacies of operating systems and enhance their programming skills.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+May be convened with
+ECE402C
+
+Component
+Lecture
+Optional Component
+No

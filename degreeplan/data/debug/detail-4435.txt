@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE531 - Software Defined Radio
+ECE531
+Download as PDF
+ECE531 - Software Defined Radio
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+040029
+Course Description
+This course covers the fundamentals of designing fully functional software defined radio systems using a hardware radio peripheral and GNU Radio software. Using the provided hardware, students will implement and design core components of physical layer communication systems such as channel estimation, equalization, forward error correction, and modulation.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Course Prerequisites or Co-requisites
+1. Python or C/C++ programming
+2. Linux
+3. ECE 340A or equivalent
+4. ECE 429 or equivalent
+Or with the consent of the instructor.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV400 - Active Cyber Defense
+CYBV400
+Download as PDF
+CYBV400 - Active Cyber Defense
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+039634
+Course Description
+Provides students with an introduction to the policies, techniques, and operational capabilities and limitations of implementing an Active Cyber Defense program. A broad survey of development of defensible network architectures; integration of passive defensive technologies; consumption and production of Cyber Threat Intelligence (CTI) products; implementation of Network Security Monitoring (NSM) and Hunt Teaming (HT) operations; employment of Incident Response (IR) plans; and Threat and Environment Manipulation techniques (TEM) will be presented, and students will use hands-on activities to practice and implement active defense methodologies.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+017775
+
+Component
+Lecture
+Optional Component
+No

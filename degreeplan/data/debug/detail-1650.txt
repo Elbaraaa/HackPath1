@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AREC497A - Coding for Applied Economists
+AREC497A
+Download as PDF
+AREC497A - Coding for Applied Economists
+Agricultural & Applied Econ  Undergraduate  UA - UA General 
+General
+Course ID
+043528
+Course Description
+This workshop course is designed to give students the skills they need to code for economics, while also providing bits and pieces of information about programming more generally. It's suitable for complete beginners who have never written any code before. Throughout the course, programming assignments will focus on applications important for applied economists. The course also introduces technical for causal inference.
+Min Units
+2
+Max Units
+2
+Repeatable for Credit
+Yes
+Total Completions Allowed
+2
+Total Units Allowed
+4
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+019555
+May be convened with
+AREC597A
+
+Component
+Workshop
+Optional Component
+No

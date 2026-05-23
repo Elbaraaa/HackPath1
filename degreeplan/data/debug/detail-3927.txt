@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CTS526 - Introduction to Neural Engineering
+CTS526
+Download as PDF
+CTS526 - Introduction to Neural Engineering
+Medicine, College of, Tucson  Graduate  UA - UA General 
+General
+Course ID
+041280
+Course Description
+This course is designed to introduce the student to the field of neural engineering. Neural engineering, as with all engineering fields, can be thought of as applied scientific understanding, in this case applied neuroscience. The class will cover aspects of neurophysiology, neuroanatomy, neurosurgery, biophysics, electronics, and signal processing; and integrate these knowledge areas into neural engineering applications. The student will learn an entire process for conducting research in neural engineering: surgical implantation of sensors and effectors, data acquisition, processing neural signals, decoding neural data, and controlling prosthetic devices. At the end of the class you should have a foundation for working with neural engineering applications and conducting research in neural engineering.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

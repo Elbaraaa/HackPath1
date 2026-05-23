@@ -1,0 +1,82 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE633 - Quantum Information Processing and Quantum Error Correction
+ECE633
+Download as PDF
+ECE633 - Quantum Information Processing and Quantum Error Correction
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+036149
+Course Description
+This course is a self-contained introduction to quantum information, quantum
+computation, and quantum error-correction. The course starts with basic principles of
+quantum mechanics including state vectors, operators, density operators,
+measurements, and dynamics of a quantum system and continues with
+fundamental principles of quantum computation, basic quantum gates, and basic
+quantum algorithms. A significant amount of time will be spent on quantum error
+correction, in particular on stabilizer codes, Calderbank-Shor-Steane (CSS) codes, and
+quantum low-density parity-check (LDPC) codes. The next part of the course is spent
+investigating physical realizations of quantum computers, encoders and decoders;
+including photonic quantum realization, cavity quantum electrodynamics, and ion traps.
+The course concludes with quantum information theory and quantum key distribution
+(QKD).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+ECE 501B and/or ECE 503.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

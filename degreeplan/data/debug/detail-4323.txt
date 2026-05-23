@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE101 - Programming 1
+ECE101
+Download as PDF
+ECE101 - Programming 1
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+043235
+Course Description
+ECE 101 is an introduction to the basic principles of programming and the C programming language. It introduces students to fundamental software design principles and commonly used techniques to solve computational problems. The course provides principal knowledge in programming concepts such as program flow control, memory management, and elementary data structures. This course also prepares students for more advanced programming courses.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Prerequisite or concurrent enrollment in: MATH120R, 122B, 125, or 129.
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

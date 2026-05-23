@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE635 - Error Correction
+ECE635
+Download as PDF
+ECE635 - Error Correction
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+037915
+Course Description
+Error correction has an essential role in ensuring integrity of data, and is at the heart of every communication, computing and data storage system. In such systems, data are protected by an error correcting code, and data bits are continuously being monitored, possible errors diagnosed and corrected by a decoding algorithm. Modern coding theory views codes as graphical models and treats decoding algorithms as probabilistic inference. This graduate course first introduces fundamental coding theory concepts and then focuses on modern coding theory. The treatment is self-contained and includes the necessary background in finite fields and probabilistic inference. We introduce codes on graphs such as low-density parity check (LDPC) codes and their iterative decoding algorithms. We also study codes used in classical and quantum computing and communications systems.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+ECE 503.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

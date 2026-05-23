@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME521 - Spacecraft Optimal Estimation
+AME521
+Download as PDF
+AME521 - Spacecraft Optimal Estimation
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+038172
+Course Description
+Theory of batch and sequential (Kalman) filtering as applied to the optimal estimation of spacecraft orbit and attitude, including a review of necessary concepts of probability and statistics. Information filters, smoothing, consider covariance analysis, and introduction to nonlinear filtering. Course work includes a term project that allows students to apply theory to an actual spacecraft orbit determination problem using real ranging data.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

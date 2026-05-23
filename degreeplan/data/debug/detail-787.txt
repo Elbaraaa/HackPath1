@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME529 - Interplanetary Mission Design
+AME529
+Download as PDF
+AME529 - Interplanetary Mission Design
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+038448
+Course Description
+Exploration of methods related to the design and construction of trajectories for interplanetary missions, including a review of the two-body problem. Hyperbolic orbit geometry, C3 energy, Lambert's problem, sphere of influence and patched conics, launch windows, Earth departure and planetary arrival, trajectory correction maneuvers, gravity assists, three-body and lunar transfers. The main focus is on ballistic trajectory designs, including case studies of Mars Odyssey, Voyager, Galileo, Cassini, Messenger, New Horizons, Genesis, and Grail.
+
+Note that the difference of the student workload between the undergraduate and graduate versions consists of more advanced homework assignments as well as requiring the use of optimization algorithms for design projects and work in the advanced topics of three-body and lunar transfers for the graduate students. The final design project will be a group project for undergraduate students and an individual project for graduate students. Both undergraduate and graduate students will be required to learn basic aspects of the AGI Satellite Tool Kit (STK) software package and complete a series of lab assignments using both Matlab and STK.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+AME429
+
+Component
+Lecture
+Optional Component
+No

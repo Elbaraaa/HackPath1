@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE500E - Photonic Communications Engineering II E
+ECE500E
+Download as PDF
+ECE500E - Photonic Communications Engineering II E
+Optical Sciences, Col  Graduate  UA - UA General 
+General
+Course ID
+035529
+Course Description
+Photonic Communications Engineering (PCE) consists of two parts (I and II). PCE I covers optical fiber light guiding and wave propagation characteristics, materials properties, optical transmitters, receivers and amplifiers, communications systems and fiber optics networks and the Internet. PCE II builds upon this knowledge with advanced subjects in system modeling, device integration, and systems-level engineering. Reference material for the course is in a digital platform to allow dense hyper-linking between topics so that students from various disciplines can customize the reading material to their individual background knowledge. The course is team taught by faculty from the Center for Integrated Access Networks (http://www.cian-erc.org/), which is a multi-institutional Engineering Research Center led by UA with partner schools: UCSD, UCLA, Columbia, Berkeley, Caltech, NSU, Tuskegee, and USC. Faculty from partner schools will deliver lectures via videoconference for live/synchronous student interaction.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+OPTI 500A, OPTI 500B, OPTI 500C.
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

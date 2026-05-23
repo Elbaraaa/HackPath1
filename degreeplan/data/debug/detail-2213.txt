@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ATMO545 - Introduction to Data Assimilation
+ATMO545
+Download as PDF
+ATMO545 - Introduction to Data Assimilation
+Hydrology & Atmospheric Sci  Graduate  UA - UA General 
+General
+Course ID
+036026
+Course Description
+Data assimilation (DA) involves combining information from observations and \"models\" of a particular physical system in order to best define and understand the evolving state of the system. It is currently applied across a wide range of Earth sciences, including weather forecasting, oceanography, atmospheric chemistry, hydrology, and climate studies. This course provides an introduction to the theory and applications of DA in atmospheric and related sciences. Topics include common DA methods like optimal interpolation, Kalman filtering and variational schemes within the context of estimation theory. The course is designed as a hands-on approach to key DA concepts that are currently used today.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - GC (Global Change), GIDP - REM (Remote Sensing & Spatial An.), IIA - GEOS (GEOS - Geosciences)
+Course Requisites
+Linear algebra, elementary statistics. Basic programming skills (C, Fortran, Matlab) is needed or consent of instructor.
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECOL346 - Bioinformatics
+ECOL346
+Download as PDF
+ECOL346 - Bioinformatics
+Ecology & Evolutionary Biology  Undergraduate  UA - UA General 
+General
+Course ID
+037971
+Course Description
+Advances in genomic and other high-throughput biological technologies are rapidly changing how biologists study the diversity of life. This course will introduce students to these new data and computational tools. As a field, bioinformatics is built around a core of fundamental evolutionary biology concepts and these will serve as an organizing theme for the course. Lectures provide 1) the conceptual and methodological basis of how large-scale biological data -- especially genomic and transcriptomic data -- are analyzed, 2) the basic biological principles that underlie bioinformatic analyses, in particular homology, duplication and loss of genes and genomic regions, types and rates of mutation in genomes, and the basic evolutionary forces that shape genomes 3) descriptions of contemporary problems in bioinformatics and computational and wet-laboratory approaches to addressing these issues, and 4) experience with current genomic and other large-scale data sets and databases as well as the computational methods for their analysis.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

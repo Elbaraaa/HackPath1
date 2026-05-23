@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ATMO529 - Objective Analysis in the Atmospheric and Related Sciences
+ATMO529
+Download as PDF
+ATMO529 - Objective Analysis in the Atmospheric and Related Sciences
+Hydrology & Atmospheric Sci  Graduate  UA - UA General 
+General
+Course ID
+008976
+Course Description
+This graduate course provides an overview of statistical methods used to interpret datasets in the atmospheric and related sciences. The objective is to provide a working knowledge of the statistical tools most commonly used. Topics include application of basic statistics (composite analysis; significance testing; curve fitting; regression analysis; correlation; and non-normal distributions), non-parametric statistical significance testing (e.g. Monte-Carlo methods and field significance), matrix methods (principal component analysis; SVD analysis; CCA), and time series analysis (harmonic analysis; power spectra; data filtering; cross-spectrum analysis; singular spectrum analysis; and wavelet analysis).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - GC (Global Change)
+Course Requisites
+Undergraduate level statistics course and linear algebra required. Computer programming skills (C, Fortran, Matlab) and knowledge of graphical display packages needed or consent of instructor.
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

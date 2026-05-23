@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV311 - Introduction to Security Programming II
+CYBV311
+Download as PDF
+CYBV311 - Introduction to Security Programming II
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041315
+Course Description
+CYBV 311 provides students with an introduction to Assembly programming. Students will use hands-on exercises to practice and implement applications developed in the Assembly programming language on x86 processors. Students will have a deeper understanding of data representation, mathematical manipulation, subroutine linkage, machine encoding as well as interrupts/execution handling and program designs in assembly language.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CYBR 310 or CSC 110, or consent of instructor.
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

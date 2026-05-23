@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV303 - Windows Security Essentials
+CYBV303
+Download as PDF
+CYBV303 - Windows Security Essentials
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041128
+Course Description
+CYBV 303 provides students with the foundational knowledge of the Windows Operating System and securing Windows environments including; learning PowerShell scripting, host hardening and active directory scripting, smart tokens and Public Key Infrastructure (PKI), protecting admin credentials, and thwarting hackers inside the network. Students will use hands-on labs and exercises to secure Windows systems, networks, applications, and data. Students will develop scripting skills through this course to progressively build more complex tools and automate security.
+Through an operational lens, students will use the PowerShell, Windows Command Line, and system tools to analyze their systems to determine what vulnerabilities exist. From an initial baseline, students will progressively harden their systems through built in tools and use scripting to implement and automate security controls. After each week, students will analyze their current system status, identify current vulnerabilities, and recommend mitigation strategies and compensating controls needed to reduce residual risk. Finally, students will review their final system configuration from a comprehensive point of view to determine what vulnerabilities remain and research and identify ways in which attackers can attack the hardened system.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

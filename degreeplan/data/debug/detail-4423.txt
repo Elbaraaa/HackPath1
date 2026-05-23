@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE512 - Reverse Engineering the Fly
+ECE512
+Download as PDF
+ECE512 - Reverse Engineering the Fly
+Neuroscience, GIDP  Graduate  UA - UA General 
+General
+Course ID
+024550
+Course Description
+The outstanding performance and robustness of biological visual systems in real-world situations is giving rise to a new generation of man-made vision systems based on biomimetic principles. However, the details of biological visual organization are not readily accessible in textbooks. This course will teach a computational approach to the study of biological visual systems, focusing on the fly (Diptera) as an example case, and referring to primates for comparison. To generate an appreciation for the real-world behavior of neuronal systems, students may have an opportunity to observe live demonstrations of electrophysiology in flies, dragonflies, and grasshoppers (as time allows). Homeworks (upon which the course will be graded) will include development of Matlab scripts to implement models of the visual system. This course will emphasize the strong commonalities between insect and human vision. This course is designed to be accessible to students from a wide variety of backgrounds from engineering to biology, and will include introductory material to bring students from all backgrounds to the level of understanding required to do the homeworks. Students will complete the course with a solid foundation in the principles of visual system organization and with a set of Matlab scripts implementing these principles.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - COGS (Cognitive Science)
+Course Requisites
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,78 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA539 - Statistical Natural Language Processing
+DATA539
+Download as PDF
+DATA539 - Statistical Natural Language Processing
+Linguistics  Graduate  UA - UA General 
+General
+Course ID
+019929
+Course Description
+This course introduces the key concepts underlying statistical natural language processing. Students will learn a variety of techniques for the computational modeling of natural language, including: n-gram models, smoothing, Hidden Markov models, Bayesian Inference, Expectation Maximization, Viterbi, Inside-Outside Algorithm for Probabilistic Context-Free Grammars, and higher-order language models. Graduate-level requirements include assignments of greater scope than undergraduate assignments. In addition to being more in-depth, graduate assignments are typically longer and additional readings are required.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - COGS (Cognitive Science), GIDP - SLAT (Sec. Lang. Acquisition & Teach), GIDP - STATD (Statistics and Data Science)
+Course Requisites
+two semesters of programming or equivalent
+Cross Listed Courses
+CSC539
+LING539
+INFO539
+May be convened with
+LING439
+
+Component
+Lecture
+Optional Component
+No

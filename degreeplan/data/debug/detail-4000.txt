@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV475 - Cyber Deception Detection
+CYBV475
+Download as PDF
+CYBV475 - Cyber Deception Detection
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041591
+Course Description
+CYBV 475 will provide students with an in-depth investigation into the use of cyber deception techniques in both offensive and defensive operations. The course will focus on the development of new methodologies to create, detect, analyze, and respond to online cyber deception campaigns. Students will use interactive
+programming exercises to detect and counter fake news; fake images; deep fake video and audio; advanced data hiding methods; covert communications; and covert tagging and tracking methods.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CYBR 473 or consent of instructor.
+
+Component
+Lecture
+Optional Component
+No

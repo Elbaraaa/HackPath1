@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APPL584B - Theoretical Foundations of Applied Mathematics II
+APPL584B
+Download as PDF
+APPL584B - Theoretical Foundations of Applied Mathematics II
+Mathematics  Graduate  UA - UA General 
+General
+Course ID
+041864
+Course Description
+Measure theory: Lebesque measures; Lebesgue Integral; Convergence theorems; Product measures; Differentiation.
+Probability: Random numbers; Probability; Moments; Generating function; Independence; Law of large numbers; Central Limit Theorem; Large Deviation. Foundations of information theory: Multivariate distributions; Marginalization; Conditioning; Bayes theorem; Entropy; mutual information, comparison of probabilities; Shannon Theorem.
+Markov Chains: Transition probabilities; Steady-State Analysis; Perron-Frobenius theorem. Fourier Analysis: Fourier series and convergence; applications to PDEs. Other topics as chosen by the instructor.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - APPL (Applied Mathematics)
+Course Requisites
+Math 584A
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

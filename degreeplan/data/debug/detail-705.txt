@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME209 - Computer Programming in Aerospace and Mechanical Engineering
+AME209
+Download as PDF
+AME209 - Computer Programming in Aerospace and Mechanical Engineering
+Aerospace & Mechanical Engr  Undergraduate  UA - UA General 
+General
+Course ID
+042709
+Course Description
+Students will be introduced to the MATLAB and Python programming environments. Concepts including 1D and 2D arrays, creating and running script files, 2D and 3D plots, functions, programming elements including logic statements and loops, curve fitting, interpolation, solving a nonlinear equation with one variable, and finding the maximum or minimum of a function will be covered in MATLAB. Concepts covered in Python include the Python shell, Python objects, control flow, file input/output, functions, and plotting.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+MATH 122B or MATH 125.
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

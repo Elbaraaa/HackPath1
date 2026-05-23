@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BAT205 - Engineering Analytics and Problem-Solving using Python
+BAT205
+Download as PDF
+BAT205 - Engineering Analytics and Problem-Solving using Python
+Biosystems Engineering  Undergraduate  UA - UA General 
+General
+Course ID
+005651
+Course Description
+The course will combine Microsoft Excel and the Python programming language to solve Biosystems Engineering problems and statistics using data analytics and problem-solving techniques. This course will use computer-based training to learn and master the use of Microsoft Excel. Python programming will cover objects, objects types, graphics user interfaces (GUIs), sequences, stings, lists, dictionaries, coding user-defined functions, decision structures, loop structures and Booleans, classes, simulation and design, object-oriented programming (OOP), and using Python libraries. Special topics related to data collections, exploring data, packages, prediction and analytics tools, and data over the internet will be introduced.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Cross Listed Courses
+
+Component
+Lecture
+Optional Component
+No

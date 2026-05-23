@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV326 - Introductory Methods of Network Analysis
+CYBV326
+Download as PDF
+CYBV326 - Introductory Methods of Network Analysis
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+039673
+Course Description
+Provides a methodology for analyzing networks by examining the network at its infrastructure, network and applications layers; exploring how they transfer data; investigating how network protocols work to enable communication; and probing and analyzing how the lower-level network layers support the upper ones. Students will use hands-on labs and exercises to investigate and analyze network fundamentals.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Requisites
+CYBV 301 or previous IT or Cyber experience.
+
+Component
+Lecture
+Optional Component
+No

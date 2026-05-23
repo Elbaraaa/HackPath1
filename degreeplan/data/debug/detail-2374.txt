@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE579 - Applied Instrumentation for Controlled Environment Agriculture
+BE579
+Download as PDF
+BE579 - Applied Instrumentation for Controlled Environment Agriculture
+Biosystems Engineering  Graduate  UA - UA General 
+General
+Course ID
+005746
+Course Description
+Students will learn principles, methods, and techniques related to the measurement and control of environmental factors affecting plant growth and plants' surrounding climate under controlled environments. Light intensity, light quality, temperature (air, plant), relative humidity, carbon dioxide, water, air current, and related factors are important variables in controlled environment plant production systems to measure and control since they affect and determine plant growth and development and processes such as heating, ventilating and air conditioning, fertigation etc. Therefore, students will learn application of sensors, instrumentation and designing of a simple system to measure and control environments for plant production systems. Graduate-level requirements include higher grading percentages for midterm, design project, and final exams.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - ABS (Applied Biosciences), GIDP - IFEWS (Indige Food Energy & Water Sys)
+Cross Listed Courses
+
+Component
+Laboratory
+Optional Component
+Yes
+Component
+Lecture
+Optional Component
+No

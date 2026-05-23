@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE576B - Embedded System Design and Optimization
+ECE576B
+Download as PDF
+ECE576B - Embedded System Design and Optimization
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+038876
+Course Description
+The focus of this course is on embedded system design, synthesis, and optimizations, also known as Electronic System Level (ESL) design. The coverage of ESL design will highlight the methods and challenges in developing embedded systems that require the tight integration of hardware and software components. In other words, the course will provide an under the hood look into how embedded systems (e.g. your smartphone, vehicle electronics) work. The course covers many aspects of embedded systems design, from system-level modeling to dynamic runtime optimizations to a brief overview of real-time software systems. The course also includes a in-depth discussion of the simulation and modeling aspects behind SystemC and transaction-level modeling (TLM), providing a detailed look into delta cycle simulation methods (similar to simulations methods used for Verilog and VHDL simulators).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+ECE 274A, ECE 275, and ECE 576A.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

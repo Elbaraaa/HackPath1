@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE201 - Programming 2
+ECE201
+Download as PDF
+ECE201 - Programming 2
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+043259
+Course Description
+ECE 201 focuses on fundamental concepts of Object-Oriented Programming and data abstraction. Topics include classes, encapsulation, inheritance, polymorphism, exceptions, abstract data types, linked lists, stacks, queues, and binary trees, using the C++ programming language. The course also introduces the concepts of algorithmic complexity and examines basic algorithms such as traversal, searching, and sorting in data structures such as linked lists, stacks, queues, and binary trees.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Major: CSE, ECE, SFWE, or Minor: CSE, SFWE. ECE 101 with C or better.
+
+Component
+Lecture
+Optional Component
+No

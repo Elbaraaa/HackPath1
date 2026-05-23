@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME554 - Spacecraft Attitude Dynamics and Control
+AME554
+Download as PDF
+AME554 - Spacecraft Attitude Dynamics and Control
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+038365
+Course Description
+Spacecraft attitude description on SO(3) using rotation matrices and attitude parameterizations; Wahba's problem and static attitude determination; rigid body dynamics, torque-free attitude dynamics and stability of rigid body motion; gravity gradient torque and stabilization, nutation damping, reaction control thrusters, and momentum exchange actuation; nonlinear regulator and attitude tracking using feedback control. Graduate-level requirements include an individual research project (versus a group project for undergraduates), as well as additional topics and more advanced homework assignments.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+AME454
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC696C - Advanced Topics in Computer Science
+CSC696C
+Download as PDF
+CSC696C - Advanced Topics in Computer Science
+Computer Science  Graduate  UA - UA General 
+General
+Course ID
+041273
+Course Description
+This is a research-oriented seminar course addressing selected advanced current topics in computer science. The specific computer science domain will be selected based on current literature as well as faculty and student interests. Exemplar domains include computer architecture, cyber-physical systems, domain-specific applications, education, embedded & real-time systems, formal verification, operations research, robotics, software engineering, ubiquitous computing, and web technologies.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+Yes
+Total Completions Allowed
+99
+Total Units Allowed
+999
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+Graduate major or minor: CSC.
+Course Requisites
+May be convened with
+
+Component
+Seminar
+Optional Component
+No

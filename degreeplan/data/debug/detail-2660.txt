@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN277 - Analytical Methods for Business
+BNAN277
+Download as PDF
+BNAN277 - Analytical Methods for Business
+Business Analytics, Sch of  Undergraduate  UA - UA General 
+General
+Course ID
+036737
+Course Description
+Corporations today are said to be data rich but information poor. For example, retailers can easily process and capture millions of transactions every day. In addition, the widespread proliferation of social and economic activity on the Internet leaves behind a rich trail of micro-level data on consumers, their purchases, interactions, retailers and their offerings, auction bidding, music sharing, so on and so forth. The business press, recruiters, and the companies that hire our students constantly tell us of the need for business people to manage very large data sets and use analytical modeling to achieve business results. This course will provide foundations of quantitative analyses to equip students with the necessary background to further develop their analytical skills in their business majors. It will focus on analysis of real business datasets in the context of business-related decision making.
+This course introduces and reinforces the concepts, methods, and applications of quantitative and statistical tools that are used by business decision makers. It will be taught as a sequel to BNAD 276, reviewing Statistics concepts and Single Linear Regression and moving to Multiple Linear Regression and other concepts that are useful to business analytics, such as visualization techniques and software. The course will have a heavy focus on hands-on analysis of real business datasets. It will use Excel for data management, cleaning, and statistical analysis and Tableau for data visualization. Students will be required to work with large data sets to perform statistical analysis, extract valuable insights, and communicate their findings in professional manner that can be understood by someone not versed in statistics.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+BNAN 276
+
+Component
+Discussion
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

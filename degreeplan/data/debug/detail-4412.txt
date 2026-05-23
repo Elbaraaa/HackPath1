@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE503B - Software Tools for Photonics
+ECE503B
+Download as PDF
+ECE503B - Software Tools for Photonics
+Optical Sciences, Col  Graduate  UA - UA General 
+General
+Course ID
+035533
+Course Description
+A brief/concise course description: Many photonics software tools are available as off the shelf modeling programs, encompassing both active and passive photonics components. These products are now in use by a wide number of telecoms companies and laboratories around the world, helping to develop the next generation of telecoms components and systems. Experience in modeling enables the development of custom solutions for specialized industry telecommunication and photonics requirements
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+Familiarity with wave propagation analysis, component design, and network architecture as taught in OPTI/ECE 500A/B/C.
+Cross Listed Courses
+OPTI503B
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

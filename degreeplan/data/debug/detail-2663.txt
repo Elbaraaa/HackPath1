@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN420 - Business Analytics Techniques
+BNAN420
+Download as PDF
+BNAN420 - Business Analytics Techniques
+Business Analytics, Sch of  Undergraduate  UA - UA General 
+General
+Course ID
+043644
+Course Description
+This course is designed to provide students with a comprehensive understanding of key concepts in descriptive statistics, data visualization, and machine learning. It covers essential techniques like regression, probability distributions, and time series analysis, along with practical applications in feature engineering, clustering, and segmentation. Students will gain hands-on experience with model training, testing, hyperparameter tuning, and model deployment using tools like PyCaret, Scikit-Learn, and AutoML frameworks. By the end of the course, learners will be equipped to analyze data, build predictive models, and implement machine learning pipelines to solve real-world business problems.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Major: BNANBSBA and BNAN 325.
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ASTR596B - Methods in Computational Astrophysics
+ASTR596B
+Download as PDF
+ASTR596B - Methods in Computational Astrophysics
+Astronomy  Graduate  UA - UA General 
+General
+Course ID
+008906
+Course Description
+The course is a \"hands-on\" introduction to computer use for research by scientists in astrophysics and related areas. The course begins with a survey of and introduction to tools available on Linux systems, web-based tools, and open-source software widely used in astrophysics. Standard methods for integration, iteration, differential and difference equations, and Monte Carlo simulations, are discussed, in one to four dimensions. Historically important methods of radiative transfer, reaction networks, and hydrodynamics are presented, and contrasted with presently-used methods. Parallel programming is introduced, and discussed in terms of new and future computer systems. Special topics are added to reflect new developments. The course is task-oriented, with individual and team work projects, and class participation determining grades. Most of the work is done on the student's own personal computer (Linux or Mac operating systems are preferred).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+OPT - Student Option ABCDE/PF
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), IIA - PHYS (PHYS - Physics)
+Course Requisites
+Cross Listed Courses
+PTYS596B
+May be convened with
+
+Component
+Seminar
+Optional Component
+No

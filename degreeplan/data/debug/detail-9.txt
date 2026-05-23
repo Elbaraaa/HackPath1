@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC244 - Discrete Mathematics for Computer Science II
+CSC244
+Download as PDF
+CSC244 - Discrete Mathematics for Computer Science II
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+042001
+Course Description
+A second course in mathematical concepts for computer science. The topics covered include recursive definitions, recurrence relations, induction, graphs, trees, combinatorics, and discrete probability.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+C or better in CSC 120 and [C or better in CSC 144 or MATH 243 or MATH 323].
+
+Component
+Lecture
+Optional Component
+No

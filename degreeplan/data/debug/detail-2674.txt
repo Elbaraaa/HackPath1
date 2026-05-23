@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BNAN570 - Generative AI for Market Insight and Strategies
+BNAN570
+Download as PDF
+BNAN570 - Generative AI for Market Insight and Strategies
+Business Analytics, Sch of  Graduate  UA - UA General 
+General
+Course ID
+043408
+Course Description
+The course is divided into three modules. In the Algorithms module, we cover the principles of Generative AI and Large Language Models (LLMs). We discuss the concepts associated with transformers, including the basic building blocks. We also cover the popular transformers (BERT, GPT, and T5). In the Prompt Engineering module, we cover various prompting techniques for optimal content generation such as Chain of Thought, RGC, and Reverse prompting, among others. In the Applications and Strategic considerations of Generative AI module, we apply prompting to a real-world business scenario. Moreover, we cover topics such as Generative AI and innovation, customer support, and review mining.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+Eller Masters Programs: MSA, MSBA, MSF, MS--MIS, MS-MKTG, MBA.
+Cross Listed Courses
+MKTG570
+
+Component
+Lecture
+Optional Component
+No

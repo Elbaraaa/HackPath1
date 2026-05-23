@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE508 - Agent-Based Simulation
+ECE508
+Download as PDF
+ECE508 - Agent-Based Simulation
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012244
+Course Description
+This course will introduce the student to: the concept of agents and multi-agent systems; the main issues in the theory and practice of multi-agent systems; the design of multi-agent systems; contemporary platforms for implementing agents and multi-agent systems; artificial life, artificial societies, N-person games. Upon completing this course, the students will understand: the notion of an agent; how agents are different from other software paradigms; the key issues associated with constructing agents, building and implementing models; the main approaches to developing agent-based simulation systems; the types of multi-agent interactions possible in such systems; the main application areas of agent-based simulation. Most importantly, they will be able to develop meaningful agent-based systems. Graduate-level requirements include completion of more sophisticated projects than undergraduates.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - COGS (Cognitive Science)
+Course Requisites
+A good command of at least one programming language.
+May be convened with
+ECE408
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME526 - Advanced Rocket Propulsion
+AME526
+Download as PDF
+AME526 - Advanced Rocket Propulsion
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+042289
+Course Description
+The major objective of the course is to introduce the fundamental concepts involved in getting into, around, and out of space, the means available to accomplish such tasks, and to familiarize the students with the conceptual level of rocket design.
+
+The course addresses both space propulsion and space flight. The students will be familiarized with rocket fundamentals, such as (but certainly not limited to) the rocket equation and its implications, thrust, exhaust velocity, and specific impulse. The basic equations and constants of motion governing orbital mechanics, orbits and orbital transfers are reviewed to supplement material from the orbital mechanics class. The main content of the course will concentrate on the different types of propulsion systems, their basic operation, performance, and applicability. These include liquid rocket engines, hybrid rocket motors, solid rocket motors, nuclear propulsion and finally different flavors of electric propulsion systems. We will conclude with some advanced propulsion concepts and the basic mechanics and requirements of interstellar flight.
+
+Graduate students are required to demonstrate the ability to analyze and optimize rocket propulsion systems through extended homework assignments. Graduate students will be expected to do independent reading and research outside of class in order to complete these assignments.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Open to MS and Phd students in Aerospace and Mechanical engineering.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

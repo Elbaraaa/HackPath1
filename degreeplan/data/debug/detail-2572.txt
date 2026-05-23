@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BME578 - Artificial Intelligence for Health and Medicine
+BME578
+Download as PDF
+BME578 - Artificial Intelligence for Health and Medicine
+Biomedical Engineering  Graduate  UA - UA General 
+General
+Course ID
+039996
+Course Description
+The practice of modern medicine in a highly regulated, complex, sociotechnical enterprise is a testament to the future healthcare system where the balance between human intelligence and artificial expertise will be at stake. The goal of this course is to introduce the underlying concepts, methods, and the potential of intelligent systems in medicine. We will explore foundational methods in artificial intelligence (AI) with greater emphasis on machine learning and knowledge representation and reasoning, and apply them to specific areas in medicine and healthcare including, but not limited to, clinical risk stratification, phenotype and biomarker discovery, time series analysis of physiological data, disease progression modeling, and patient outcome prediction. As a research and project-based course, student(s) will have opportunities to identify and specialize in particular AI methods, clinical/healthcare applications, and relevant tools.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Course Requisites
+Course suitable for Majors: APPL, BME, ECE, MEE, CSC, SIE, STAT, IS, MIS., or obtain instructor consent. Basic foundation in linear algebra, discrete mathematics, probability & statistics, and data structures recommended for this course.
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

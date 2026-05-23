@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC480 - Principles of Machine Learning
+CSC480
+Download as PDF
+CSC480 - Principles of Machine Learning
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+042132
+Course Description
+Students will learn why machine learning is a fundamentally different way of writing computer programs from traditional programming, and why this is often an attractive way of solving practical problems. Machine learning is all about automatic ways for computers to collect and/or adapt to data to make better predictions and decisions or gain insight; students will learn both advantages and unique risks that this approach offers. They will learn the fundamental frameworks, computational methods, and algorithms that underlie current machine learning practice, and how to derive and implement many of them.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+018697
+Course Requisites
+Recommend completion of Calculus I (MATH 125 or MATH 122B). You will need to have a programming maturity at the level of CSC 120.
+May be convened with
+CSC580
+
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE304C - Theory of Computation
+ECE304C
+Download as PDF
+ECE304C - Theory of Computation
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+043481
+Course Description
+This is a foundational course in computer science and engineering that provides an introduction to the theory of computation. This field of study revolves around understanding the capabilities and limitations of computation, including factors such as computational power, storage requirements, and the types of computational models employed. The course primarily focuses on addressing two fundamental questions: first, whether a problem can be solved using a given abstract machine (computability), and second, determining the time and space resources necessary to solve the problem (complexity). The theory of computation has significant relevance to various engineering practices, and its principles underlie the development of efficient algorithms and the design of computer systems. Some of the key topics covered in the course include regular and context-free languages, Turing machines and their variants, decidable and undecidable problems, concepts of reducibility, computational time and space complexity, completeness, as well as hierarchy theorems. By studying these topics, students gain a deeper understanding of the fundamental limits of computation, enabling them to reason about the feasibility and efficiency of solving various computational problems. This knowledge forms a solid foundation for further exploration in computer science and engineering and related disciplines.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Adv Stdg: Engineering. ECE 201.
+
+Component
+Lecture
+Optional Component
+No

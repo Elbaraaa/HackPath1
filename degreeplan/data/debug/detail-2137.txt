@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ASTR502 - Data Mining and Machine Learning in Astronomy
+ASTR502
+Download as PDF
+ASTR502 - Data Mining and Machine Learning in Astronomy
+Astronomy  Graduate  UA - UA General 
+General
+Course ID
+039692
+Course Description
+This is a graduate level elective course aiming at providing the interface between astronomical data analysis problems and modern statistics methods. Modern astronomy and astrophysics is undergoing a revolution with dramatic increases in both the volume and complexity of astronomical data. The last decade saw the emergence of many terabyte-level sky surveys across the electromagnetic spectrum; the next decade, data volumes will enter the petabyte regime, with an ever strong time domain component. These new data sets represent quantum leaps in our abilities for new astronomical discoveries, but also present significant challenges to standard analysis tools normally employed in astronomy.
+
+The goal of this course is to bridge the gap between modern large data surveys and the data analysis tools that have been provided in normal graduate courses. The course will start with a brief review of the modern statistics framework relevant to large scale data analysis, including probabilities and statistical distribution, classical and Bayesian statistical inferences. Then it will cover the main topics of the course: data mining and machine learning, including density estimation, clustering analysis, dimensionality reduction, regression and model fitting, classification and time series analysis. Another key component of the course is to introduce commonly used data mining and machine learning tools, in the context of Python-based packages, which will be used in solving data problems throughout the course.
+Min Units
+2
+Max Units
+2
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

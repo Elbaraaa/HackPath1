@@ -66,6 +66,111 @@ function applySchema(db: Database) {
       feasibility     TEXT,
       created_at      TEXT NOT NULL DEFAULT (datetime('now'))
     );
+
+    CREATE TABLE IF NOT EXISTS majors (
+      id            INTEGER PRIMARY KEY AUTOINCREMENT,
+      code          TEXT NOT NULL UNIQUE,
+      name          TEXT NOT NULL,
+      institution   TEXT,
+      catalog_year  TEXT,
+      seed_version  INTEGER,
+      metadata_json TEXT NOT NULL DEFAULT '{}',
+      created_at    TEXT NOT NULL DEFAULT (datetime('now')),
+      updated_at    TEXT NOT NULL DEFAULT (datetime('now'))
+    );
+
+    CREATE TABLE IF NOT EXISTS requirement_nodes (
+      id             INTEGER PRIMARY KEY AUTOINCREMENT,
+      major_id       INTEGER NOT NULL,
+      parent_id      INTEGER,
+      code           TEXT NOT NULL,
+      title          TEXT NOT NULL,
+      node_type      TEXT NOT NULL,
+      display_order  INTEGER NOT NULL DEFAULT 0,
+      notes_json     TEXT NOT NULL DEFAULT '[]',
+      metadata_json  TEXT NOT NULL DEFAULT '{}',
+      created_at     TEXT NOT NULL DEFAULT (datetime('now')),
+      updated_at     TEXT NOT NULL DEFAULT (datetime('now')),
+      FOREIGN KEY (major_id) REFERENCES majors(id),
+      FOREIGN KEY (parent_id) REFERENCES requirement_nodes(id)
+    );
+    CREATE UNIQUE INDEX IF NOT EXISTS idx_requirement_nodes_major_code
+      ON requirement_nodes(major_id, code);
+
+    CREATE TABLE IF NOT EXISTS requirement_rules (
+      id                  INTEGER PRIMARY KEY AUTOINCREMENT,
+      requirement_node_id INTEGER NOT NULL UNIQUE,
+      rule_type           TEXT NOT NULL,
+      required_count      REAL,
+      required_courses    REAL,
+      required_units      REAL,
+      required_gpa        REAL,
+      rule_json           TEXT NOT NULL DEFAULT '{}',
+      created_at          TEXT NOT NULL DEFAULT (datetime('now')),
+      updated_at          TEXT NOT NULL DEFAULT (datetime('now')),
+      FOREIGN KEY (requirement_node_id) REFERENCES requirement_nodes(id)
+    );
+
+    CREATE TABLE IF NOT EXISTS requirement_options (
+      id                  INTEGER PRIMARY KEY AUTOINCREMENT,
+      requirement_node_id INTEGER NOT NULL,
+      option_type         TEXT NOT NULL DEFAULT 'course',
+      option_value        TEXT NOT NULL,
+      sort_order          INTEGER NOT NULL DEFAULT 0,
+      metadata_json       TEXT NOT NULL DEFAULT '{}',
+      created_at          TEXT NOT NULL DEFAULT (datetime('now')),
+      updated_at          TEXT NOT NULL DEFAULT (datetime('now')),
+      FOREIGN KEY (requirement_node_id) REFERENCES requirement_nodes(id)
+    );
+    CREATE INDEX IF NOT EXISTS idx_requirement_options_node
+      ON requirement_options(requirement_node_id);
+
+  CREATE TABLE IF NOT EXISTS advisement_snapshots (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    major_id INTEGER NOT NULL,
+    student_name TEXT,
+    student_id TEXT,
+    prepared_on TEXT,
+    academic_summary_json TEXT NOT NULL DEFAULT '{}',
+    unit_summary_json TEXT NOT NULL DEFAULT '{}',
+    raw_json TEXT NOT NULL,
+    created_at TEXT NOT NULL DEFAULT (datetime('now')),
+    FOREIGN KEY (major_id) REFERENCES majors(id)
+  );
+  
+  CREATE TABLE IF NOT EXISTS student_requirement_status (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    snapshot_id INTEGER NOT NULL,
+    requirement_node_id INTEGER,
+    requirement_code TEXT NOT NULL,
+    title TEXT,
+    status TEXT,
+    metric_type TEXT,
+    required_value REAL,
+    completed_value REAL,
+    needed_value REAL,
+    applied_courses_json TEXT NOT NULL DEFAULT '[]',
+    available_options_json TEXT NOT NULL DEFAULT '[]',
+    notes_json TEXT NOT NULL DEFAULT '[]',
+    FOREIGN KEY (snapshot_id) REFERENCES advisement_snapshots(id),
+    FOREIGN KEY (requirement_node_id) REFERENCES requirement_nodes(id)
+  );
+  
+  CREATE TABLE IF NOT EXISTS student_course_attempts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    snapshot_id INTEGER NOT NULL,
+    course_code TEXT NOT NULL,
+    term TEXT,
+    title TEXT,
+    grade TEXT,
+    units REAL,
+    rpt_code TEXT,
+    requirement_designation TEXT,
+    credit_type TEXT,
+    attempt_status TEXT,
+    raw_json TEXT NOT NULL DEFAULT '{}',
+    FOREIGN KEY (snapshot_id) REFERENCES advisement_snapshots(id)
+  );
   `);
 }
 
@@ -103,13 +208,28 @@ export interface Course {
   offered: string[];
 }
 
+function asStringArray(value: any): string[] {
+  if (Array.isArray(value)) return value.map(String).filter(Boolean);
+  if (typeof value !== 'string' || !value.trim()) return [];
+
+  try {
+    const parsed = JSON.parse(value);
+    if (Array.isArray(parsed)) return parsed.map(String).filter(Boolean);
+    if (typeof parsed === 'string' && parsed.trim()) return [parsed.trim()];
+  } catch {
+    return [value.trim()];
+  }
+
+  return [];
+}
+
 function hydrate(row: any): Course {
   return {
     ...row,
     id: Number(row.id),
     units: Number(row.units),
-    prereqs: JSON.parse(row.prereqs || '[]'),
-    offered: JSON.parse(row.offered  || '[]'),
+    prereqs: asStringArray(row.prereqs),
+    offered: asStringArray(row.offered),
   };
 }
 
@@ -131,6 +251,50 @@ function courseParams(c: Course | Partial<Course>) {
 export async function getAllCourses(): Promise<Course[]> {
   const db = await getDb();
   return queryAll(db, 'SELECT * FROM courses ORDER BY major, code').map(hydrate);
+}
+
+export async function getCoursesPage(options: {
+  limit?: number;
+  offset?: number;
+  q?: string;
+  major?: string;
+  category?: string;
+}): Promise<{ courses: Course[]; total: number; limit: number; offset: number }> {
+  const db = await getDb();
+  const limit = Math.max(1, Math.min(1000, Number(options.limit || 200)));
+  const offset = Math.max(0, Number(options.offset || 0));
+  const where: string[] = [];
+  const params: Record<string, SqlValue> = { $limit: limit, $offset: offset };
+
+  if (options.q?.trim()) {
+    where.push(`(code LIKE $q OR title LIKE $q OR description LIKE $q)`);
+    params.$q = `%${options.q.trim()}%`;
+  }
+
+  if (options.major?.trim() && options.major !== 'All') {
+    where.push(`major = $major`);
+    params.$major = options.major.trim();
+  }
+
+  if (options.category?.trim() && options.category !== 'All') {
+    where.push(`category = $category`);
+    params.$category = options.category.trim();
+  }
+
+  const whereSql = where.length ? `WHERE ${where.join(' AND ')}` : '';
+  const totalRow = queryOne(db, `SELECT COUNT(*) AS total FROM courses ${whereSql}`, params);
+  const courses = queryAll(
+    db,
+    `SELECT * FROM courses ${whereSql} ORDER BY major, code LIMIT $limit OFFSET $offset`,
+    params
+  ).map(hydrate);
+
+  return {
+    courses,
+    total: Number(totalRow?.total || 0),
+    limit,
+    offset
+  };
 }
 
 export async function upsertCourse(c: Course): Promise<Course> {

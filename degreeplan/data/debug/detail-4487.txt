@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE632 - Advanced Optical Communication Systems
+ECE632
+Download as PDF
+ECE632 - Advanced Optical Communication Systems
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012361
+Course Description
+Advanced technologies and methods that enhance the overall optical transmission system performance and throughput, and the trade-offs related to the system engineering process. Topics include advanced chromatic dispersion compensation, PMD compensation and the nonlinearity management. The spectral efficiency limits will be described and techniques to achieve it, such as turbo equalization, forward error correction (FEC), and coded modulation. Advanced modulation formats, and constrained coding techniques suitable to deal with fiber nonlinearities will be presented. The physics behind parametric amplification will be presented as well as its application to all-optical regeneration, wavelength conversion, and multibanded switching. Other topics include soliton and dispersion-managed soliton transmission. Several proof-of-concept experiments will be demonstrated in Optical Communication Systems Laboratory (OCSL).
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed)
+Cross Listed Courses
+OPTI632
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

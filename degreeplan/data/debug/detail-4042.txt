@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA363 - Introduction to Statistical Methods
+DATA363
+Download as PDF
+DATA363 - Introduction to Statistical Methods
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+020927
+Course Description
+An applications-oriented calculus-based statistics course with an introduction to statistical software. Course topics: Organizing data numerically and visually. Axioms of probability, conditional probability and independence. Random variables and expectation with emphasis on parametric families. Law of large numbers and central limit theorem. Estimation, bias and variance, confidence intervals. Hypothesis testing, significance and power. Likelihood ratio tests such as proportion tests, t-tests, chi-square tests, and analysis of variance.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+(Math 129 or 223) and [(CSC 110 or ISTA 130 or DATA 201) or completed or registered for (CSC 120)] and have completed or are registered for (Math 313 and ISTA 322).
+Course Requisites
+Ability to program, preferably in Python.
+Cross Listed Courses
+
+Component
+Lecture
+Optional Component
+No

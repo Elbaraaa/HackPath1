@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE407 - Digital VLSI Systems Design
+ECE407
+Download as PDF
+ECE407 - Digital VLSI Systems Design
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+012135
+Course Description
+This course covers the fundamental techniques for the design, analysis and layout of digital CMOS circuits and systems. Major topics include: MOSFET basics (structure and behavior of a MOSFET, CMOS fabrication, and design rules), detailed analysis of the CMOS inverter (static behavior, ratioed vs. ratioless design, noise margins, computing rise and fall times, delay models, resistance and capacitance estimation, design and layout of static CMOS logic gates, dynamic CMOS logic design, sequential circuit design (static and dynamic sequential circuit elements, clocking schemes and clock optimization), CMOS data path design.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. ECE 274A and ECE 351C.
+Course Requisites
+May be convened with
+ECE507
+
+Component
+Lecture
+Optional Component
+No

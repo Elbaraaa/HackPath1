@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+COGS512 - Experience in Neuroimaging Study Design and Analysis
+COGS512
+Download as PDF
+COGS512 - Experience in Neuroimaging Study Design and Analysis
+Cognitive Science, GIDP  Graduate  UA - UA General 
+General
+Course ID
+042562
+Course Description
+Through both lectures and hands-on experience, students will explore the entire pipeline for running an experiment to analyze MRI scans of the human brain. This pipeline includes etiquette, safety and privacy protocols, selection and collection of appropriate scan sequences, data transfer, data processing, and analysis. This course provides scan time for each student or group (~5 hours per semester). Students have the opportunity to work closely with an MRI technician to design a protocol, get scanned (optional), transfer and convert the scans to BIDS, preprocess, perform statistical analysis, and visualize the results. Students will work closely with the instructors to navigate the processes involved. This course will require creative problem solving and the ability to work independently
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+018929
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

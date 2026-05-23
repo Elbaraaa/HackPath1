@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APCV371 - Introduction to Artificial Intelligence in Cyber
+APCV371
+Download as PDF
+APCV371 - Introduction to Artificial Intelligence in Cyber
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+043642
+Course Description
+Artificial Intelligence in cyber security refers to the use of advanced technologies, such as machine learning and deep learning, to enhance the detection, analysis, prevention, and mitigation of cyber threats and respond accordingly. The integration of AI in cybersecurity brings forth a multitude of advantages, enhancing the overall resilience and effectiveness of defense mechanisms against evolving cyber threats. This course will detail these artificial intelligence capabilities and their application in the cyber security domain.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

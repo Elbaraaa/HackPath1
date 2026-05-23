@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC465 - Reverse Engineering vs. Software Protection
+CSC465
+Download as PDF
+CSC465 - Reverse Engineering vs. Software Protection
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+043366
+Course Description
+This course teaches tools and techniques for dissecting and understanding an unknown piece of (potentially malicious) low-level code. In particular, the course covers fundamental program analysis techniques, reverse engineering algorithms and tools, and algorithms for protecting software (such as computer games, mobile code, critical infrastructure, malware, and media) against reverse engineering attacks. Additionally, the course provides a strong foundation for the understanding of low-level programming, including assembly code, binary code, and executable file formats.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CSC 252, and CSC 352.
+
+Component
+Lecture
+Optional Component
+No

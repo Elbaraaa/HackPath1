@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV383 - Mobile Device Forensics
+CYBV383
+Download as PDF
+CYBV383 - Mobile Device Forensics
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041318
+Course Description
+CYBV 383 provides students with in depth knowledge conducting a forensic investigation focusing on mobile devices. It is estimated that over 50% of all network traffic is generated from mobile phones. These devices contain vital evidence for investigators including geolocation, connection data, contacts, and various pattern of life details. This course will focus on iOS and Android devices with a brief discussion on Windows devices. This course will teach students how to retrieve data effectively from the devices and the cloud using the latest techniques in mobile forensics.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Previous completion of or concurrent enrollment in CYBR 381 or CYBR 388.
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

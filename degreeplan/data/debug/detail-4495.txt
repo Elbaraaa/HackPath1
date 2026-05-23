@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE678 - Wireless Protocols
+ECE678
+Download as PDF
+ECE678 - Wireless Protocols
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+012385
+Course Description
+Protocols for wireless LANs, mesh networks; routing for ad hoc and sensor networks; data aggregation and clustering in sensor networks; scheduling mechanisms; transport protocols for wireless and sensor networks; fairness issues; interoperability between wired and wireless networks; protocols for cognitive radio networks; protocols for wireless networks with directional transmission capabilities
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+ECE 578 or CSC 525 or equivalent.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

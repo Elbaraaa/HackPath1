@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME565 - Design Optimization
+AME565
+Download as PDF
+AME565 - Design Optimization
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+005526
+Course Description
+[Taught alternate years beginning Fall 2011] This course aims at providing basic knowledge in recent design optimization methods and tools. Typical examples of design optimization problems involve the minimization of structural weight and cost while satisfying performance constraints. Emphasis will be on applied design optimization and its application in the context of simulation-based design. Techniques ranging from optimal sizing, shape, and topology optimization to design of experiments and response surfaces will be presented.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Prerequisite or concurrent registration, finite element course (undergraduate or graduate).
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

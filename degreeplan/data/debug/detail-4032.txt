@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA101 - Data Science: Big Data, AI, and Us
+DATA101
+Download as PDF
+DATA101 - Data Science: Big Data, AI, and Us
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+043963
+Course Description
+Our world is changing. Data and Artificial Intelligence (AI) are remaking the way we shop, travel, learn, and live. This course will survey the uses of data science in everyday life. What is data science and how is it driving today's world? To answer these questions we will investigate how machines learn. Can machines think? For example, how is ChatGPT able to answer questions? What are the ethical considerations in data science? Are predictions from data sometimes biased? What can we do about it? By uncovering how data science works, this course will give you the perspective to chart a path in this world.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+GEED - BC (Gen Ed: Building Connections)
+
+Component
+Lecture
+Optional Component
+No

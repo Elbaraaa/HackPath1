@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC101 - Introduction to Computer Science
+CSC101
+Download as PDF
+CSC101 - Introduction to Computer Science
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+039663
+Course Description
+This course is intended for students who have no prior programming experience. Several core concepts in computer science will be presented, including problem-solving techniques, data representation, logic, and the physical components of computer hardware. Students will leave this course with basic programming and problem-solving skills, increased technical literacy, and a greater ability to recognize problems that can be solved with technology.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

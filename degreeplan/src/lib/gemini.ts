@@ -15,6 +15,71 @@ function client() {
   return new GoogleGenerativeAI(key);
 }
 
+function tokenizeInterestText(text: string) {
+  const stop = new Set([
+    'the', 'and', 'for', 'with', 'that', 'this', 'from', 'have', 'want', 'like',
+    'about', 'into', 'course', 'courses', 'class', 'classes', 'student', 'learn',
+    'interested', 'interest', 'good', 'best', 'recommend', 'recommendation'
+  ]);
+
+  return String(text || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .split(/\s+/)
+    .filter(word => word.length > 2 && !stop.has(word));
+}
+
+function courseSearchText(course: Course) {
+  return [
+    course.code,
+    course.title,
+    course.major,
+    course.category,
+    course.description,
+    course.prereqs?.join(' '),
+    course.offered?.join(' ')
+  ].join(' ').toLowerCase();
+}
+
+function compactCourseLine(course: Course) {
+  const description = String(course.description || '').replace(/\s+/g, ' ').slice(0, 180);
+  return `${course.code} | ${course.title} | ${course.units} units | ${course.category} | ${description}`;
+}
+
+function relevantCoursesForInterestAdvisor(
+  history: { role: 'user' | 'model'; parts: string }[],
+  courses: Course[],
+  maxCourses = 45
+) {
+  const userText = history
+    .filter(item => item.role === 'user')
+    .map(item => item.parts)
+    .join(' ');
+  const terms = tokenizeInterestText(userText);
+
+  const scored = courses.map(course => {
+    const text = courseSearchText(course);
+    const code = String(course.code || '');
+    const isCsc = code.startsWith('CSC ');
+    const category = String(course.category || '').toLowerCase();
+    let score = isCsc ? 4 : 0;
+
+    if (/elective|area|core|capstone|systems|theory|software|data|ai|security/i.test(category)) score += 2;
+    for (const term of terms) {
+      if (text.includes(term)) score += 3;
+    }
+    if (/ai|artificial|machine|data|security|game|web|software|systems|theory|database/.test(text)) score += 1;
+
+    return { course, score };
+  });
+
+  return scored
+    .filter(item => item.score > 0)
+    .sort((a, b) => b.score - a.score || String(a.course.code).localeCompare(String(b.course.code)))
+    .slice(0, maxCourses)
+    .map(item => item.course);
+}
+
 // ─────────────────────────────────────────────────────────────────────────────
 // DEGREE PLAN GENERATION
 // ─────────────────────────────────────────────────────────────────────────────
@@ -153,21 +218,28 @@ For each course, extract:
 // ─────────────────────────────────────────────────────────────────────────────
 export async function chatAdvisorTurn(
   history: { role: 'user' | 'model'; parts: string }[],
-  courses: Course[]
+  courses: Course[],
+  electiveContext?: { requirement?: string; requirementTitle?: string; options?: string[] }
 ): Promise<string> {
+  const relevantCourses = relevantCoursesForInterestAdvisor(history, courses);
+  const courseList = relevantCourses.length ? relevantCourses : courses.slice(0, 30);
+  const electiveFocus = electiveContext
+    ? `\nCurrent plan elective slot: ${electiveContext.requirementTitle || 'Elective'} (${electiveContext.requirement || 'no requirement code'}).\nApproved option codes: ${(electiveContext.options || []).join(', ')}.\nRecommend only courses that satisfy this elective slot.`
+    : '';
   const model = client().getGenerativeModel({
     model: 'gemini-2.5-flash',
     systemInstruction: `You are a warm, knowledgeable university course advisor.
 Goal: understand the student's interests through conversation, then recommend courses.
+${electiveFocus}
 
-Available courses (${courses.length}):
-${courses.map(c=>`• ${c.code} "${c.title}" [${c.major} | ${c.category}] — ${c.description}`).join('\n')}
+Relevant course options (${courseList.length} shown from ${courses.length} loaded):
+${courseList.map(compactCourseLine).join('\n')}
 
 Rules:
 - Have a natural 3-5 turn conversation. Ask about career goals, learning style, what excites them.
 - After enough info (3+ exchanges), recommend 4-6 courses.
 - Append picks at the very END of your message as:
-PICKS:[{"code":"COURSE CODE","reason":"1-sentence personalized reason","match":85}]
+PICKS:[{"code":"COURSE CODE","title":"Course title","reason":"1-sentence personalized reason","match":85}]
 - match is 0-100. Only use courses from the list above. Keep chat text to 2-4 sentences.`,
   });
 
@@ -175,7 +247,7 @@ PICKS:[{"code":"COURSE CODE","reason":"1-sentence personalized reason","match":8
   const chatHistory = history.slice(0, -1).map(m => ({
     role: m.role,
     parts: [{ text: m.parts }],
-  }));
+  })).slice(-6);
 
   const chat  = model.startChat({ history: chatHistory });
   const result = await chat.sendMessage(history[history.length - 1].parts);

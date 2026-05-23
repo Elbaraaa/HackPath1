@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV482 - Computational Propaganda
+CYBV482
+Download as PDF
+CYBV482 - Computational Propaganda
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041898
+Course Description
+CYBV 482 will provide students with a comprehensive overview of how automated bot operations are used by bad actors to conduct malicious amplification of topics, spread disinformation, attempt to manipulate elections through \"opinion machines\", and create false narratives and headlines around the globe. Students will design and experiment with social media bots within the CyberApolis environment for the purpose of understanding their operation and behavioral characteristics. Students will evaluate and attempt to improve on the effectiveness of bot detection, bot classification and explore the challenges of mapping propaganda campaigns.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CYBR 473 or CYBR 474 or Consent of Instructor.
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

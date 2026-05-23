@@ -1,0 +1,80 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BE534 - Biosystems Analytics
+BE534
+Download as PDF
+BE534 - Biosystems Analytics
+Biosystems Engineering  Graduate  UA - UA General 
+General
+Course ID
+040507
+Course Description
+This course provides a comprehensive introduction to Python for data analytics focused on the interpretation of biological data. The course is structured as a series of short lectures covering key concepts and analytical strategies using Python and cutting-edge open source packages for data analytics. The majority of the course focuses on hands-on exercises both in- and out- of class to develop practical coding skills for interpreting and analyzing high-dimensional biological data. Students work in a collaborative learning classroom to gain skills in (1) basic Unix and Python, (2) Python data structures functions, and files, and (3) data wrangling and visualization using IPython, NumPy, and pandas, and (4) analytics using machine-learning methods available in Scikit-Learn. These skills are taught by implementing real-world coding examples to manipulate and process biological data in Python, and effectively use data-oriented Python libraries to analyze and interpret data from biological systems.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - ABS (Applied Biosciences), GIDP - ECGN (Ecosystem Genomics)
+Course Requisites
+Online introduction to Linux.
+
+Code academy's Intro to Unix or Command line bootcamp.
+
+Apple or Linux computer or Windows machine with Putty.
+
+An introductory programming class in python is useful but not required.
+May be convened with
+BE434
+
+Component
+Lecture
+Optional Component
+No

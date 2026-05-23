@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CMM522 - Crash Course in Bioinformatics for Biologists
+CMM522
+Download as PDF
+CMM522 - Crash Course in Bioinformatics for Biologists
+Cellular & Molecular Medicine  Graduate  UA - UA General 
+General
+Course ID
+042436
+Course Description
+This course aims to equip graduate students with the basic tools necessary to tackle modern bioinformatic analysis. The goal is to provide foundational concepts that apply to a variety of fields, though the instructors own background in genomics will undoubtedly present a bias.
+
+The course will cover these major topics: High Performance Computing (emphasizing the resources available through the UA HPC), Command line programming (bash/grep/awk/etc.), Code version control (Git/Github), Tools for troubleshooting (Biostars/Stack Overflow), R programming, Python programming
+
+Bioinformatics is best learned through experiential education. Therefore, most of the course will be dedicated to hands-on experience. Lectures will be limited to essential overviews, and most of the course will involve in-class assignments for individual or small group learning.
+Min Units
+1
+Max Units
+1
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

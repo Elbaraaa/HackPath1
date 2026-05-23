@@ -1,0 +1,75 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+AME620 - Advanced Computational Aerodynamics
+AME620
+Download as PDF
+AME620 - Advanced Computational Aerodynamics
+Aerospace & Mechanical Engr  Graduate  UA - UA General 
+General
+Course ID
+005554
+Course Description
+Governing equations for computational aerodynamics and fluid dynamics techniques for solving partial differential equations, grid generation and multi-grid techniques; applications to compressible and incompressible viscous flows.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+AME 431, AME 500B, AME 536B.
+May be convened with
+
+Component
+Laboratory
+Optional Component
+Yes
+Component
+Lecture
+Optional Component
+No

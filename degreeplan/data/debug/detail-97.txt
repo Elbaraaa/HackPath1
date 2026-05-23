@@ -1,0 +1,76 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC696A - Advanced Topics in Programming Languages and Compilers
+CSC696A
+Download as PDF
+CSC696A - Advanced Topics in Programming Languages and Compilers
+Computer Science  Graduate  UA - UA General 
+General
+Course ID
+041272
+Course Description
+The goal of this graduate seminar course is to learn more about research in the general field of programming languages and compilers. In this course, we will read and review research papers on programming languages and compilers. We will also learn how to do research in computer science by reading, evaluating, presenting, and conducting a research project in programming languages and compilers. Specific topics to be determined by current literature and faculty and student interest.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+Yes
+Total Completions Allowed
+99
+Total Units Allowed
+999
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Enrollment Requirements
+Graduate major or minor: CSC.
+Course Requisites
+May be convened with
+
+Component
+Seminar
+Optional Component
+No

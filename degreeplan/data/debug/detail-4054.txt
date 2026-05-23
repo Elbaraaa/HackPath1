@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA412 - Linear Algebra for Data Science
+DATA412
+Download as PDF
+DATA412 - Linear Algebra for Data Science
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+042683
+Course Description
+This course will cover some of the more advanced topics in Linear Algebra beyond what is covered in traditional undergraduate courses. The focus will be on exploring theory which is used in real Data Science applications, including matrix factorization, low-rank matrix approximations, kernel methods, graph theory, and optimization. Some special modern topics will be covered such as Compressed Sensing, Data Clustering, and Frame Theory. The theory will be complemented with illustrative applications.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+CE - CL (Cross Listed)
+Enrollment Requirements
+Linear Algebra (MATH 313).
+Cross Listed Courses
+
+Component
+Lecture
+Optional Component
+No

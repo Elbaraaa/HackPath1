@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE543 - Quantum Communications and Quantum Networks
+ECE543
+Download as PDF
+ECE543 - Quantum Communications and Quantum Networks
+Electrical & Computer Engr  Graduate  UA - UA General 
+General
+Course ID
+042786
+Course Description
+The course starts with basic concepts from classical detection theory, information theory, and channel coding fundamentals. To make the course self-contained, an overview of basic principles of quantum mechanics including state vectors, operators, density operators, measurements, and dynamics of a quantum system is provided next. The course continues with fundamental principles of quantum information processing, basic quantum gates, no-cloning theorem, and theorem on indistinguishability of arbitrary quantum states. The next topic in the course is related to the quantum information theory, quantum detection and Gaussian quantum information theories, quantum communication, and quantum key distribution (QKD). The focus of the course is then moved to the quantum networking. The course continues with quantum metrology and quantum sensing.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+
+Component
+Lecture
+Optional Component
+No

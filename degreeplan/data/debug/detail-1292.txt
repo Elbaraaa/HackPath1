@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APPL589A - Algorithms of Applied Mathematics I
+APPL589A
+Download as PDF
+APPL589A - Algorithms of Applied Mathematics I
+Mathematics  Graduate  UA - UA General 
+General
+Course ID
+041862
+Course Description
+Floating point arithmetic. Numerical linear algebra: Singular Value Decomposition, QR and LU factorizations. Eigenvalues and eigenvectors. Systems of non-linear equations: functional iteration, Newton's method. Numerical Differential Equations: basic integration schemes, order of accuracy. Initial Value Problem: Euler method, explicit-implicit methods, stability, Runge-Kutta methods, adaptive step size. Boundary Value Problem: shooting method, quasi-linearization. Other topics as chosen by the instructor.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - APPL (Applied Mathematics)
+Course Requisites
+Admission to Applied Math GIDP
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

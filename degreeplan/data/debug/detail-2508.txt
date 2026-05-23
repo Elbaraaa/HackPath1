@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BIOS680 - Biostatistical Methods I: Clinical Trials/Survival Analysis
+BIOS680
+Download as PDF
+BIOS680 - Biostatistical Methods I: Clinical Trials/Survival Analysis
+Epidemiology and Biostatistics  Graduate  UA - UA General 
+General
+Course ID
+042866
+Course Description
+Clinical trials and survival analysis are two critical and relevant topics within the broader area of biostatistics and epidemiology. Clinical trials are conducted on human subjects to evaluate the safety and effectiveness of new drugs, medical devices, or other treatments. On the other hand, survival analysis is a statistical method used to analyze data on the time until an event of interest occurs. It is commonly used in medical research to analyze data on patient survival, disease recurrence, or time to other clinical outcomes. This course deals with methods for clinical trials, including trial design and implementation, as well as survival analysis for time-to-event data. It is essential for students interested in pursuing a career in medical research, biostatistics, or clinical trial design and analysis.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+GIDP - STATD (Statistics and Data Science)
+Course Requisites
+Students should know basic concepts of distributions, statistical estimation, hypothesis testing, linear regression, and maximum likelihood theory and have some experience in using SAS and R.
+
+Component
+Lecture
+Optional Component
+No

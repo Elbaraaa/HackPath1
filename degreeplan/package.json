@@ -5,11 +5,25 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node scripts/fixNextAppPathsManifest.js",
     "start": "next start",
-    "db:seed": "node seed.js"
+    "db:seed": "node seed.js",
+    "catalog:parse": "node scripts/parseCatalog.js",
+    "seed:import": "node scripts/importSeedToDb.js",
+    "advisement:import": "node scripts/importAdvisementToDb.js",
+    "advisement:parse": "node scripts/parseAdvisementPdf.js",
+    "check:snapshot": "node scripts/checkSnapshot.js",
+    "remaining:reqs": "node scripts/getRemainingRequirements.js",
+    "planner:next": "node scripts/getNextCourses.js",
+    "planner:simple": "node scripts/buildSimplePlan.js",
+    "check:courses": "node scripts/checkCourses.js",
+    "catalog:import": "node scripts/importCatalogToDb.js",
+    "catalog:scrape": "tsx scripts/scrapeCatalog.ts --skip-csv --details --out data/raw/catalog-details.csv",
+    "catalog:csv": "tsx scripts/scrapeCatalog.ts --out data/raw/catalog.csv"
   },
   "dependencies": {
     "@google/generative-ai": "^0.14.1",
+    "csv-parse": "^6.2.1",
     "next": "^15.2.0",
     "pdf-parse": "^1.1.1",
     "react": "^18",
@@ -21,6 +35,8 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/sql.js": "^1.4.9",
+    "playwright": "^1.59.1",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

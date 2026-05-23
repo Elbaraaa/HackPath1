@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APCV405 - DevOps Practices & Tools
+APCV405
+Download as PDF
+APCV405 - DevOps Practices & Tools
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+043626
+Course Description
+DevOps is the combination of approaches, practices, tools and cultural philosophies that optimizes and streamlines an organization's ability to deliver services and applications at high velocity and scale. DevOps focuses on creating more value in less time by fostering collaboration between key teams and automating processes throughout the development lifecycle. In this course, you will learn to create more value in less time by integrating key teams and processes.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No

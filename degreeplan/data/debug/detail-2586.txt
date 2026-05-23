@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+BME639 - Magnetic Resonance Imaging
+BME639
+Download as PDF
+BME639 - Magnetic Resonance Imaging
+Biomedical Engineering  Graduate  UA - UA General 
+General
+Course ID
+039994
+Course Description
+This course covers the physical principles, system design, data encoding and acquisition methods, pulse sequences, image reconstruction algorithms, data analyses and visualization, and biomedical application of magnetic resonance imaging (MRI). Topics ranging from basic principles, to advanced development, to emerging fields of MRI research will be systematically discussed in this course. The goals of this course are 1) helping students acquire in-depth understanding of MRI, 2) guiding students to develop basic skills for performing MRI research, 3) preparing graduate students for performing advanced biomedical imaging research and future career that involves MRI. The students will achieve these goals after successfully completing the following course objectives: attending the lectures and programming workshops, performing research projects and lab activities, implementing simulation and reconstruction computer codes, conducting literature reviews, writing a research report, and delivering oral presentations.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Basic MRI knowledge at the level of BME 516 or BME 638 is recommended not required. Basic computer programming in a language suitable for image analysis and signal processing (e.g. Matlab, Python, Julia, C, or C++) is recommended.
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

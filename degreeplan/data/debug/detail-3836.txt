@@ -1,0 +1,77 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CSC433 - Computer Graphics
+CSC433
+Download as PDF
+CSC433 - Computer Graphics
+Computer Science  Undergraduate  UA - UA General 
+General
+Course ID
+009823
+Course Description
+Theory and practice of computer graphics: basic graphics programming, 2D and 3D transformations, clipping, 2D and 3D viewing, hierarchical modeling, hidden surface removal, lighting and shading, color, ray-tracing, radiosity, curve and surface modeling, and animation.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+CSC 252, CSC 335, CSC 345, CSC 352, and (MATH 215 or MATH 313).
+Course Requisites
+May be convened with
+CSC533
+
+Component
+Discussion
+Optional Component
+Yes
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,71 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CTS505 - Introduction to Bioinformatics
+CTS505
+Download as PDF
+CTS505 - Introduction to Bioinformatics
+Medicine, College of, Tucson  Graduate  UA - UA General 
+General
+Course ID
+042764
+Course Description
+This course is designed as an introduction to bioinformatics principles, algorithms, and their application to hypothesis-driven, basic and translational research. The course covers important protein and nucleotide alignment algorithms, such as BLAST and Smith-Waterman, crucial public databases, RNA biology, and different approaches for DNA and RNA sequencing. We will introduce important concepts, such as differential gene expression, functional enrichment analysis, genome assembly, and gene finding. The open-source statistical computing language R, employed for many bioinformatics analyses, will be covered, together with an introduction to Linux-based operating systems used in high performance computing (HPC) environments to enable students to perform their own analyses on HPC systems as well as on their own laptops.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Requisites
+Ability to use a statistical computing package (such as R).
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

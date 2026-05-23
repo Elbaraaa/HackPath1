@@ -1,0 +1,74 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE351C - Electronic Circuits
+ECE351C
+Download as PDF
+ECE351C - Electronic Circuits
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+036601
+Course Description
+ECE 351C is a 4 unit course covering Operational amplifiers, diode circuits, circuit characteristics of bipolar and MOS transistors, MOS and bipolar digital circuits, and simulation software. The purpose of ECE 351C is to get experience with the fundamental nonlinear devices for circuit design: diodes and transistors. We'll learn how to analyze simple linear amplifier circuits with these devices, how to use small signal models, and spend a relatively small amount of time on how to build digital logic gates. More complex linear amplifier circuits are left for ECE 304.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. ECE 320A.
+
+Component
+Laboratory
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

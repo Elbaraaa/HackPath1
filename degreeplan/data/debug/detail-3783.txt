@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CR503 - Informatics for Clinical Research
+CR503
+Download as PDF
+CR503 - Informatics for Clinical Research
+Medicine, College of, Tucson  Graduate  UA - UA General 
+General
+Course ID
+040935
+Course Description
+This is a core course for a graduate degree in clinical research. Biomedical informatics (BMI) is a field concerned with the collection, management, analysis and optimal use of patient information to facilitate clinical research and drive evidence-based medicine and improvements in healthcare outcomes. This course will present fundamental knowledge on database design, data collection standards and processes, and explore the different data utilization and analytic methods to leverage primary and secondary data in clinical research. Students will review the role of emerging technologies such as electronic health records, administrative and regulatory datasets, biobanks, and research-specific data management systems in clinical research. Practical application of biomedical information will be demonstrated through journal article review and directed questions, data exercises, and generating a data analytics work product.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Graduate
+Course Attributes
+CE - CL (Cross Listed), GIDP - CBIO (Cancer Biology)
+Course Requisites
+Cross Listed Courses
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

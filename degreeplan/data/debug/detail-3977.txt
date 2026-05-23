@@ -1,0 +1,72 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+CYBV384 - Host and File System Forensics (Windows)
+CYBV384
+Download as PDF
+CYBV384 - Host and File System Forensics (Windows)
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+041319
+Course Description
+CYBV 384 provides students with in depth knowledge conducting a forensic investigation focusing on Windows Operating System (OS). It is estimated that approximately 80% of the desktop/laptop market share consists of Windows OS. It is critical for students to understand how Windows works and how to conduct a detailed investigation of this OS. During this course students will perform live analysis of Windows remotely and locally, understand how to and implement data acquisition, create timelines of system actions to identify how an incident occurred, and use various tools to recover and analyze data from file systems, the registry, and computer memory.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Previous completion of or concurrent enrollment in CYBR 381 or CYBR 388.
+Course Requisites
+May be convened with
+
+Component
+Lecture
+Optional Component
+No

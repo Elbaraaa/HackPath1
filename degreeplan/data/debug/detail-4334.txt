@@ -1,0 +1,70 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE310 - Applications of Engineering Mathematics
+ECE310
+Download as PDF
+ECE310 - Applications of Engineering Mathematics
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+036240
+Course Description
+This course is approximately one-half linear algebra and one-half probability and statistics. Linear algebra topics include: matrix operations, systems of linear equations, determinants, Gauss-Jordan elimination, vector spaces, basis and dimension, projections, determinants, eigenvalues and eigenvectors. Probability and statistics topics include: probability, random variables, density and distribution functions, sample mean and variance, estimation and confidence intervals. An introduction to Matlab and Matlab projects.
+Min Units
+4
+Max Units
+4
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. MATH 254 and (ECE 207 or 220) and ECE 101.
+
+Component
+Lecture
+Optional Component
+No

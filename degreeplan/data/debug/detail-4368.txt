@@ -1,0 +1,73 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+ECE435A - Digital Communications Systems
+ECE435A
+Download as PDF
+ECE435A - Digital Communications Systems
+Electrical & Computer Engr  Undergraduate  UA - UA General 
+General
+Course ID
+038041
+Course Description
+The purpose of the course is to give students a comprehensive introduction to digital communication principles. The major part of the course is devoted to studying how to translate information into a digital signal to be transmitted, and how to retrieve the information back from the received signal in the presence of noise and intersymbol interference (ISI). Various digital modulation schemes are discussed through the concept of signal space. Analytical and simulation models for digital modulation systems are designed and implemented in the presence of noise and ISI. Optimal receiver models for digital base-band and band-pass modulation schemes are covered in detail.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Enrollment Requirements
+Advanced Standing: Engineering. Major: ECE. ECE 340A.
+Course Requisites
+May be convened with
+ECE535A
+
+Component
+Lecture
+Optional Component
+No

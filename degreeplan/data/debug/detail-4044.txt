@@ -1,0 +1,79 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+DATA367 - Statistical Methods in Sports Analytics
+DATA367
+Download as PDF
+DATA367 - Statistical Methods in Sports Analytics
+Mathematics  Undergraduate  UA - UA General 
+General
+Course ID
+039951
+Course Description
+This course will introduce statistical methods and training in statistical consulting aimed to analyze sports by using observational data on players and teams. With an emphasis on statistical inference and modeling, the students will learn how to analyze a sports related problem, utilize statistical tools to find a solution and interpret those results to sports professionals. The course will also offer the opportunity to focus on a semester long sports analytics project in partnership with a University of Arizona athletics team.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+Course Attributes
+SEA - DI (Discovery), SEC - INT (Interdisciplinarity)
+Enrollment Requirements
+017507
+Course Requisites
+It is also recommended that students have experience in programming language, like Java, Python, R or MatLab.
+May be convened with
+
+Component
+Discussion
+Optional Component
+No
+Component
+Lecture
+Optional Component
+No

@@ -1,0 +1,68 @@
+Skip to Main Content
+University of Arizona
+Home
+Programs
+Courses
+Key to Course Descriptions
+Policies
+Academic Calendar
+Academic Calendar
+Syllabus Policies
+Registration & Enrollment Policies
+Fees & Financial Policies
+Student Program Policies
+Degree & Program Policies
+Grading Policies
+Credit Policies
+Courses Policies
+Student Rights & Records Policies
+Admission & Engagement Policies
+General Education Policies
+Accelerated Master's Programs
+About the Catalog
+Academic Programs
+Undergraduate Programs
+Graduate Programs
+Graduate Certificates
+Academic Support
+Academic Support
+Academic Support
+Academic Support
+Accreditation
+Policies
+Academic Calendar
+Academic Calendar
+Involvement, Engagement & Leadership
+ Search . . .
+Home
+Programs
+Courses
+Policies
+Resources
+Home
+Courses
+APCV485 - Deep Learning in Cyber
+APCV485
+Download as PDF
+APCV485 - Deep Learning in Cyber
+Applied Science  Undergraduate  UA - UA General 
+General
+Course ID
+043652
+Course Description
+\"Deep Learning\" systems, typified by deep neural networks, are increasingly taking over all the AI tasks, ranging from language understanding, speech and image recognition, to machine translation, planning, and even game playing and autonomous driving. In this course we will learn about the basics of deep neural networks, and their applications to various AI tasks, with an emphasis on the cyber domain.
+Min Units
+3
+Max Units
+3
+Repeatable for Credit
+No
+Grading Basis
+GRD - Regular Grades A, B, C, D, E
+Career
+Undergraduate
+
+Component
+Lecture
+Optional Component
+No
